@@ -1,0 +1,22 @@
+/* Google fonts import */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+</style>
+
+/* CSS Variables */
+:root {
+    --primary-font: "Lato", sans-serif;
+    --secondary-font: "playfair-display", fantasy;
+    --primary-color:  #013332; /* dark green */
+    --secondary-color: #dbd9d0; /* light grey */
+    --highlight-color: #018e7d; /* green */
+    --highlight-color-light: #53bba5; /* light green */
+}
+/*grid visualisation*/
+.conatainer, .row {
+    border:2px solid black;
+}
+.col-12 {
+    border:2px solid green;
+    background-color: grey;
+}
