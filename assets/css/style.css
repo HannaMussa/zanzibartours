@@ -1,7 +1,5 @@
 /* Google fonts import */
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-</style>
 
 /* CSS Variables */
 :root {
@@ -12,11 +10,40 @@
     --highlight-color: #018e7d; /* green */
     --highlight-color-light: #53bba5; /* light green */
 }
+
+/* Global styles */
+
+body {
+    font-family: var(--primary-font);
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--secondary-font);
+    color: var(--primary-color);
+}
+
+
+/* Navbar */
+
+#navbar {
+    background-color: var(--secondary-color);
+}
+
+#navbar .logo {
+    width: 35px;
+}
+
+
 /*grid visualisation*/
-.conatainer, .row {
-    border:2px solid black;
-}
+
+/* .container, .row {
+        border: 2px solid black;
+    }
+
 .col-12 {
-    border:2px solid green;
-    background-color: grey;
-}
+    border: 2px solid white;
+    background-color: lightblue;
+    }
+     */
