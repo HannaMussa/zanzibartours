@@ -61,7 +61,8 @@ img {
 /*about*/
 
 #about {
-background-color: #dbd9d0;
+background-color: var(--secondary-color);
+margin: 0%;
 }
 .about-image {
     width:100%;
@@ -77,12 +78,12 @@ background-color: #dbd9d0;
     height: 60px;
     border-radius: 50%;
     margin-right: 1rem;
-    display:block
+    display:block;
 }
+
 #testimonial .card {
     margin-bottom: 1rem;
 }
-
 
      /*Media Queries*/
 
@@ -95,27 +96,60 @@ background-color: #dbd9d0;
     .carousel-caption p, .carousel-caption a {
         font-size: 60%;
     }
-    
+    .carousel-caption{
+        bottom:0%;
+    }
+    .carousel-caption>p{
+        margin-bottom:5%;
+    }
+    .carousel-caption>a{
+        margin-bottom: 5%;
+    }
+}
 
 /*medium devices and up*/
 @media (min-width: 768px) {
-    .carousel-caption h1,  .carousel-caption h2{ 
+    .carousel-caption h1,  .carousel-caption h2 { 
         font-size: 120%;
     }
-
-    .carousel-caption p, .carousel-caption a {
+     .carousel-caption p, .carousel-caption a {
         font-size: 80%;
     }
+    .card {
+        height: 23rem;
+        position:relative;
+    }
+    .name-footer {
+        position:absolute;
+        bottom: 30px;
+    }
+   
 }
 
 
 /*large devices and up*/
 @media (min-width: 992px) { 
-    .carousel-caption h1,  .carousel-caption h2{ 
+    .carousel-caption h1, .carousel-caption h2 { 
         font-size: 200%;
+    }
+    .card {
+        height: 26rem;
+        position:relative;
+    }
+    .name-footer {
+        position:absolute;
+        bottom: 15px;
     }
 }
 
+  /* // Extra large devices (large desktops, 993px and up) */
+  @media (min-width: 993px) 
+  { .carousel-caption h1,  .carousel-caption h2{ 
+      font-size: 300%;
+  }
+  .card{
+      height: 23rem;
+  } }
 
 
     
