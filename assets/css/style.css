@@ -70,8 +70,22 @@ background-color: #dbd9d0;
     border-radius: 6px;
 }
 
+/*Testimonials*/
 
-     /*media queries*/
+.test {
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 1rem;
+    display:block
+}
+#testimonial .card {
+    margin-bottom: 1rem;
+}
+
+
+     /*Media Queries*/
+
 /*small devices and down*/
 @media (max-width: 576px) {
     .carousel-caption h1,  .carousel-caption h2{ 
@@ -82,7 +96,6 @@ background-color: #dbd9d0;
         font-size: 60%;
     }
     
- 
 
 /*medium devices and up*/
 @media (min-width: 768px) {
