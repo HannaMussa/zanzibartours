@@ -122,6 +122,30 @@ margin: 5%
     display: block;
 }
 
+/*Packages*/
+
+#packages .card {
+    margin: 1rem;
+    height:450px;
+    position: relative;
+}
+
+#packages .btn {
+    /* background-color: red; */
+    padding: 3px;
+    margin: 3px;
+}
+
+#packages .card-footer{
+    background-color: transparent;
+    border:none;
+    position: absolute;
+    bottom:2px;
+    left: 2px;
+}
+
+
+
 /*Footer*/
 #footer {
     background-color: var(--secondary-color);
@@ -183,6 +207,10 @@ margin: 5%
         position:absolute;
         bottom: 30px;
     }
+
+    #packages .card{
+        height: 470px;
+    }
 }
 
 /*large devices and up*/
@@ -211,6 +239,11 @@ margin: 5%
     .col-lg-4 {
         flex: 0 0 auto;
 }
+#packages .card{
+    height: 510px;
+}
+}
+
 
 
   /* // Extra large devices (large desktops, 993px and up) */
@@ -226,4 +259,3 @@ margin: 5%
       height: 21rem;
   }
  }
-
