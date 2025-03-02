@@ -56,15 +56,46 @@
 
 
 
-
+<!--Booking form-->
     <div class="booking-container" id="booking">
         <div class="row">
             <h3 class="booking-title">Book your town now</h3>
-            <div> Add labels /inputs (name, email, phone, tour type, way of contaxt etc) 
+            <form action="booking.html" method="post">
+                <div>
+                    <label for="fname" class="form-label "> Name</label>
+                    <input type="fname" class="form-control" id="fname" name="fname" placeholder="Jack">
 
-            </div>
+                    <label for="number" class="form-label"> Phone number</label>
+                    <input type="number" class="form-control" id="number" name="number" required
+                        placeholder="0712345678">
+
+                    <label for="exampleFormControlInput1" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1" name="email"
+                        placeholder="example@gmail.com" required>
+
+
+                    <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"
+                        placeholder="Your message"></textarea>
+
+                    <label for="tour-type" class="form-label"> What tour would you like to book</label>
+                    <select class="form-select" aria-label="Default select example" id="tour-type" name="tour-type"
+                        required>
+                        <option selected>Select a tour</option>
+                        <option value="2">Jozani Forest & Spice tour</option>
+                        <option value="3">Stown town</option>
+                        <option value="4">All inclusive</option>
+                    </select>
+
+                    <label for="contact">How would you like for us to contact you?</label><br>
+                    <label class="form-check-label" for="contact">Phone</label>
+                    <input type="checkbox" class="form-control radio" id="contact">
+                    <label class="form-check-label" for="exampleCheck1">Email</label>
+                    <input type="checkbox" class="form-control radio" checked id="exampleCheck1">
+                    <button type="submit" class="btn btn-primary" href="success.html">Submit</button>
+            </form>
         </div>
-        </div>
+    </div>
     </div>
 
 
