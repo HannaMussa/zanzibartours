@@ -88,7 +88,39 @@ margin: 0%;
 }
 
 /*Booking form*/
+.booking-container {
+    background-image: url("../images/booking-bg.jpg");
+    filter : brightness(0.9);
+    background-size: cover;
+    background-position: center;
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+    }
 
+.booking-title {
+font-size:2 rem;
+font-weight: 700;
+text-align:start;
+padding: top 2%;
+margin: 5%
+}
+
+.form-control,
+.form-select {
+    width: 75%;
+    height:auto;
+    border-radius: 15px
+}
+
+.radio {
+    width: 1px;
+    display: inline;
+}
+
+#booking .submit {
+    display: block;
+}
 
 /*Footer*/
 #footer {
@@ -110,10 +142,6 @@ margin: 0%;
     transition: color 0.3s ease-in-out;
 }
     
-    
-
-
-
      /*Media Queries*/
 
 /*small devices and down*/
@@ -163,8 +191,13 @@ margin: 0%;
         font-size: 3em;
     }
 
-    .carousel-caption p, .carousel-caption a {
+    .carousel-caption p {
         font-size: 2.5em;
+    }
+        
+    .carousel-caption a {
+        font-size: 1em;
+    }
 
     #testimonial .card {
         height: 30rem;

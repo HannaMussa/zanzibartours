@@ -60,7 +60,7 @@
     <div class="booking-container" id="booking">
         <div class="row">
             <h3 class="booking-title">Book your town now</h3>
-            <form action="booking.html" method="post">
+            <form action="booking.html" method="post"  class="booking-input m-4">
                 <div>
                     <label for="fname" class="form-label "> Name</label>
                     <input type="fname" class="form-control" id="fname" name="fname" placeholder="Jack">
@@ -82,9 +82,18 @@
                     <select class="form-select" aria-label="Default select example" id="tour-type" name="tour-type"
                         required>
                         <option selected>Select a tour</option>
-                        <option value="2">Jozani Forest & Spice tour</option>
-                        <option value="3">Stown town</option>
-                        <option value="4">All inclusive</option>
+                        <option value="1">Beach Retreat</option>
+                        <option value="2">Snorkeling</option>
+                        <option value="3">Swimming with the Dolphins</option>
+                        <option value="4">Swimming with the Turtles</option>
+                        <option value="5">Island Hopping</option>
+                        <option value="6">Dinner on the beach</option>
+                        <option value="7">Jet Ski</option>
+                        <option value="8">Jozani Forest</option>
+                        <option value="9">Spice Farm</option>
+                        <option value="10">Stown town</option>
+                        <option value="11">Forodhani</option>
+                        <option value="12">All inclusive</option>
                     </select>
 
                     <label for="contact">How would you like for us to contact you?</label><br>
@@ -92,7 +101,7 @@
                     <input type="checkbox" class="form-control radio" id="contact">
                     <label class="form-check-label" for="exampleCheck1">Email</label>
                     <input type="checkbox" class="form-control radio" checked id="exampleCheck1">
-                    <button type="submit" class="btn btn-primary" href="success.html">Submit</button>
+                    <button type="submit" class="btn btn-primary submit" href="success.html">Submit</button>
             </form>
         </div>
     </div>
