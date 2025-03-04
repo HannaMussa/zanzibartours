@@ -59,7 +59,7 @@
     <!--Booking form-->
     <div class="booking-container" id="booking">
         <div class="row">
-            <h3 class="booking-title">Book your town now</h3>
+            <h3 class="booking-title text-capitalize">Book Your Dream Tour Today!</h3>
             <form action="booking.html" method="post" class="booking-input m-4">
                 <div>
                     <label for="fname" class="form-label "> Name</label>
@@ -79,9 +79,9 @@
                         placeholder="Your message"></textarea>
 
                     <label for="tour-type" class="form-label"> What tour would you like to book</label>
-                    <select class="form-select" aria-label="Default select example" id="tour-type" name="tour-type"
+                    <select class="form-select" aria-label="Default select example" id="tour-type" required name="tour-type"
                         required>
-                        <option selected>Select a tour</option>
+                        <option value=""selected disabled>Select a tour</option>
                         <option value="1">Beach Day Retreat</option>
                         <option value="2">Snorkeling Adventure</option>
                         <option value="3">Magical Dolphin Swimming</option>
