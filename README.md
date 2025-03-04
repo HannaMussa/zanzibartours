@@ -1,10 +1,12 @@
 # Zanzibar Tours
 
-Zanzibar Tours is a reputable tour agency dedicated to providing memorale tourism experiences for visitors to Zanzibar, and local residents in nearby regions.
+Zanzibar Tours is a reputable tour agency dedicated to providing memorable tourism experiences for visitors to Zanzibar, and local residents in nearby regions.
 
 On this website, users will immediately recognize our reputation and credibility via customer testimonials and the dedicated "About Us" section. High resolution visuals of Zanzibar’s breathtaking beaches, forests, and other scenic locations are showcased in an engaging image carousel and on our "Packages" page.
 
 For inquiries, users can contact us using the contact infomation in the footer, which includes contact details and social media links. Additionally, the Booking Section offers a direct way for users to message us.
+
+[View the live site here.](https://hannamussa.github.io/zanzibartours/)
 
 ## UX
 
@@ -88,12 +90,13 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
     - On desktop screens and larger, three testimonials are displayed per row, spanning the full width of the section.
 
 - **Package page**
-  - The Packages page consists of twelve cards, each showcasing an image of the tour's scenic views, a brief description of the experience, and a footer section with a button that links to the booking form, allowing users to book a tour.
-   - The layout is fully responsive:
 
-     - On mobile screens, one package card takes up the full width.
-     - On tablet-sized screens, two cards are displayed per row, spanning the entire width.
-     - On large screens, four package cards are displayed per row, utilizing the full screen width.
+  - The Packages page consists of twelve cards, each showcasing an image of the tour's scenic views, a brief description of the experience, and a footer section with a button that links to the booking form, allowing users to book a tour.
+  - The layout is fully responsive:
+
+    - On mobile screens, one package card takes up the full width.
+    - On tablet-sized screens, two cards are displayed per row, spanning the entire width.
+    - On large screens, four package cards are displayed per row, utilizing the full screen width.
 
 - **Booking page**
 
@@ -108,16 +111,70 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 
 ### Future Features
 
-These are potential future features for the website:  
+These are potential future features for the website:
 
-- **FAQ Page**  
-  - A dedicated page providing quick answers to common user or customer inquiries. It would help clarify details about bookings, tours, services, and other relevant information.  
+- **FAQ Page**
+
+  - A dedicated page providing quick answers to common user or customer inquiries. It would help clarify details about bookings, tours, services, and other relevant information.
 
 - **Embedded iFrames**
-  - Integrating iFrames would allow users to visualize locations more easily. This feature would display tour meeting points, destinations, and routes, making the website more interactive and informative.  
 
-- **Gallery Page**  
-  - A visually engaging page showcasing high-resolution images of tour locations, attractions, and experiences. This would enhance the site's appeal, improve user experience, and add authenticity. 
+  - Integrating iFrames would allow users to visualize locations more easily. This feature would display tour meeting points, destinations, and routes, making the website more interactive and informative.
+
+- **Gallery Page**
+  - A visually engaging page showcasing high-resolution images of tour locations, attractions, and experiences. This would enhance the site's appeal, improve user experience, and add authenticity.
 
 ## Tools and Technologies Used
+
+This section includes the tools, technologies, and frameworks used in the development of the website.
+
+- [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome) was used for testing and debugging the website to ensure compatibility across different devices.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools) is a built-in feature in Google Chrome, which was used for inspecting elements, debugging code- paticularly for media queries.
+- [GitHub](https://github.com) was used to store the website's code.
+- [Git] (https://git-scm.com/) was used for version control, allowing developers to track changes and manage website/project.
+- [Balsamiq](https://balsamiq.com) is a wireframing tool used to create mockup designs before development.
+- [Visual Studio Code](https://code.visualstudio.com/) is a code editor used for writing HTML and CSS.
+- [HTML](https://en.wikipedia.org/wiki/HTML) is the core markup language used to structure the website.
+- [CSS](https://en.wikipedia.org/wiki/CSS) was used for styling the website’s appearance.
+- [Bootstrap](https://getbootstrap.com) is a front-end framework used for responsive designs when creating websites.
+
+## Testing
+
+## Deployment
+
+### Local Deployment
+
+#### Cloning
+
+#### Forking
+
+## Credits
+
+### Content
+
+| source                                                                                                                 |        location        |                                                               notes |
+| ---------------------------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------------: |
+| [Code Institute Readme Template] (https://github.com/Code-Institute-Solutions/readme-template)                         |     README.md file     | helped with structuring read me file, layout and content to include |
+| [Luna's Leopard Geckos README](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos/blob/main/README.md) |     README.md file     | helped with structuring read me file, layout and content to include |
+| [YouTube] (https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                           |        Carousel        |                                  inspiration for carousel on header |
+| [Google Fonts](https://fonts.google.com/)                                                                              |    entired website     |                                           fonts for entire website. |
+| [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)                                                       |    entired website     |        helped understand concepts for entire website/ media queries |
+| [Image Resizer](https://imageresizer.com/)                                                                             | testimonies & packages |                            optimized images for better performance. |
+| [ChatGPT](https://chatgpt.com/)                                                                                        | testimonies & packages |                            assisted with heading and text creation. |
+| [FontAwesome] (https://fontawesome.com/)                                                                               |    icons on footer     |                                      contact section, social links, |
+| [Favicon] (https://favicon.io/)                                                                                        |     Navbar, Title      |       Favicon used on desktop icon tab and used as a logo on navbar |
+
+### Media
+
+This section includes images, fonts, and other media assets that enhance the visual appeal of the website.
+
+| source                                                       |    location    |                                                            notes |
+| ------------------------------------------------------------ | :------------: | ---------------------------------------------------------------: |
+| [Pexels](https://www.pexels.com/)                            | Entire Website | all images, background, carousel, about, testimonials & packages |
+| [YouTube] (https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB) |    Carousel    |                                         add a carousel with text |
+| [FontAwesome] (https://fontawesome.com/)                     |    Footer:     |                                   contact section, social links, |
+| [Favicon] (https://favicon.io/)                              | Navbar, Title  |    Favicon used on desktop icon tab and used as a logo on navbar |
+
+### Acknowledgements
+
 

@@ -226,13 +226,11 @@ img {
   }
 
   #testimonial .card {
-    height: 30rem;
+    height: 26rem;
   }
   .name-footer {
     position: absolute;
-    bottom: 2px;
-    height: 10%;
-    margin-bottom: 0%;
+    height: 2%;
   }
   .col-lg-4 {
     flex: 0 0 auto;
