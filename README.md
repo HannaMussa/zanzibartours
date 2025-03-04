@@ -176,5 +176,3 @@ This section includes images, fonts, and other media assets that enhance the vis
 | [Favicon] (https://favicon.io/)                              | Navbar, Title  |    Favicon used on desktop icon tab and used as a logo on navbar |
 
 ### Acknowledgements
-
-
