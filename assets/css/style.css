@@ -5,16 +5,17 @@
 :root {
   --primary-font: "Lato", sans-serif;
   --secondary-font: "Playfair Display", Georgia;
-  --primary-color: #013332; /* dark green */
-  --secondary-color: #dbd9d0; /* light grey */
-  --highlight-color: #018e7d; /* green */
-  --highlight-color-light: #53bba5; /* light green */
+
+  --primary-color: #2f2a30; /* dark black hut */
+  --secondary-color: #f2e9d5; /* Light beige sandy color */
+  --tertiary-color: #0c5c59; /* Dark blue ocean color */
+  --highlight-color:   #30bbb4; /* light blue ocean color */
+  --highlight-color-light: #2ce8de; /* light blue ocean color */
 }
 
 /* Global styles */
 
 body {
-  margin-top: 18%;
   font-family: var(--primary-font);
 }
 
@@ -22,7 +23,7 @@ h1,
 h2,
 h3 {
   font-family: var(--secondary-font);
-  color: var(--primary-color);
+  color: var(--tertiary-color);
 }
 
 .section {
@@ -37,6 +38,9 @@ img {
   height: auto;
 }
 
+
+
+
 /* Navbar */
 
 #navbar {
@@ -44,7 +48,6 @@ img {
 }
 
 /*carousel*/
-
 .c-image {
   filter: brightness(0.6);
 }
@@ -83,6 +86,9 @@ img {
 
 #testimonial .card {
   margin-bottom: 1rem;
+}
+#testimonial h3 {
+  color: var(--tertiary-color) !important;
 }
 
 /*Booking form*/
@@ -167,6 +173,7 @@ img {
   align-items: center;
   flex-direction: column;
   text-align: center;
+  margin-top: 100px;
 }
 
 /*Media Queries*/
@@ -240,8 +247,7 @@ img {
   }
   .name-footer {
     position: absolute;
-    height: 2%;
-    bottom: 20%;
+    bottom: 2%;
   }
   .col-lg-4 {
     flex: 0 0 auto;
