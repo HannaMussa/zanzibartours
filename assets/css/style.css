@@ -38,7 +38,20 @@ img {
   height: auto;
 }
 
+/*Button*/
 
+.btn {
+  border: 2px solid var(--highlight-color);
+  background-color: var(--highlight-color);
+  color: white;
+}
+
+.btn:hover {
+  border: 2px solid var(--tertiary-color);
+  background-color: var(--secondary-color);
+  color: black;
+  transition: color 0.1s ease-in-out;
+}
 
 
 /* Navbar */
