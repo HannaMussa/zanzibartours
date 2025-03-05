@@ -9,8 +9,8 @@
   --primary-color: #2f2a30; /* dark black hut */
   --secondary-color: #f2e9d5; /* Light beige sandy color */
   --tertiary-color: #0c5c59; /* Dark blue ocean color */
-  --highlight-color:   #30bbb4; /* light blue ocean color */
-  --highlight-color-light: #2ce8de; /* light blue ocean color */
+  --highlight-color: #30bbb4; /* light blue ocean color */
+  --highlight-off-light: #ae7c06; /* light blue ocean color */
 }
 
 /* Global styles */
@@ -53,6 +53,19 @@ img {
   transition: color 0.1s ease-in-out;
 }
 
+/*Links*/
+.nav-link {
+  color: var(--primary-color);
+}
+
+.nav-link:hover {
+  color: var(--highlight-color);
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-link:visited {
+  color: var(--highlight-off-light);
+}
 
 /* Navbar */
 
@@ -218,12 +231,6 @@ img {
   .carousel-caption h1,
   .carousel-caption h2 {
     font-size: 2em;
-
-    /* .carousel-caption h1,  .carousel-caption h2 { 
-        font-size: 200%;
-    }
-     .carousel-caption p, .carousel-caption a {
-        font-size: 100%; */
   }
   #testimonial .card {
     height: 24rem;
@@ -255,10 +262,10 @@ img {
   }
 
   #testimonial .card {
-    height: 26rem;
+    height: 25rem;
     position: relative;
   }
-  .name-footer {
+  #testimonial .name-footer {
     position: absolute;
     bottom: 2%;
   }
@@ -274,8 +281,9 @@ img {
     bottom: 2%;
   }
 }
-/* Extra large devices (large desktops, 993px and up) */
-@media (min-width: 993px) {
+
+/* Extra large devices and up */
+@media (min-width: 1200px) {
   .carousel-caption h1,
   .carousel-caption h2 {
     font-size: 2.5em;

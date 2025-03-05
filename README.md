@@ -13,19 +13,19 @@ For inquiries, users can contact us using the contact infomation in the footer, 
 From the first click, users should immediately recognize that the website focuses on Zanzibar tours. This is accomplished with a full-width, autoplaying carousel designed to capture attention. High-resolution images are used to enhance visual appeal and create an engaging experience.
 
 ### Color Scheme
+
 -what was used ti generate color pallete ()
 what was color theme, and why?
 
 ### Typography
 
-- [Lato](https://fonts.google.com/specimen/Lato) was selected as the primary font for the body text. 
+- [Lato](https://fonts.google.com/specimen/Lato) was selected as the primary font for the body text.
 
 - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) was used for headings and subheadings.
 
- - [Sans-serif](https://fonts.google.com/?query=sans-serif) was used as a fallback font in case the other fonts fails to load. 
+- [Sans-serif](https://fonts.google.com/?query=sans-serif) was used as a fallback font in case the other fonts fails to load.
 
 Lato was chosen for its readability and clarity, while Playfair Display, commonly used on luxury websites, provides a blend of traditional and modern aesthetics. The contrast between Lato and Playfair Display creates a visually appealing and well-balanced typographic combination.
-
 
 ### New Site Users
 
@@ -157,23 +157,23 @@ This section includes the tools, technologies, and frameworks used in the develo
 
 | source                                                                                                                 |        location        |                                                               notes |
 | ---------------------------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------------: |
-| [Code Institute Readme Template](https://github.com/Code-Institute-Solutions/readme-template)                         |     README.md file     | helped with structuring read me file, layout and content to include |
+| [Code Institute Readme Template](https://github.com/Code-Institute-Solutions/readme-template)                          |     README.md file     | helped with structuring read me file, layout and content to include |
 | [Luna's Leopard Geckos README](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos/blob/main/README.md) |     README.md file     | helped with structuring read me file, layout and content to include |
-| [YouTube](https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                           |        Carousel        |                                  inspiration for carousel on header |
+| [YouTube](https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                            |        Carousel        |                                  inspiration for carousel on header |
 | [Google Fonts](https://fonts.google.com/)                                                                              |    entired website     |                                           fonts for entire website. |
 | [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)                                                       |     entire website     |        helped understand concepts for entire website/ media queries |
 | [Image Resizer](https://imageresizer.com/)                                                                             | testimonies & packages |                            optimized images for better performance. |
 | [ChatGPT](https://chatgpt.com/)                                                                                        | testimonies & packages |                         assisted with formulating heading and text. |
-| [FontAwesome](https://fontawesome.com/)                                                                               |    icons on footer     |                                      contact section, social links, |
-| [Favicon](https://favicon.io/)                                                                                        |     Navbar, Title      |       Favicon used on desktop icon tab and used as a logo on navbar |
+| [FontAwesome](https://fontawesome.com/)                                                                                |    icons on footer     |                                      contact section, social links, |
+| [Favicon](https://favicon.io/)                                                                                         |     Navbar, Title      |       Favicon used on desktop icon tab and used as a logo on navbar |
 
 ### Media
 
 This section includes images, fonts, and other media assets that enhance the visual appeal of the website.
 
-| source                                   |    location    |                                                            notes |
-| ---------------------------------------- | :------------: | ---------------------------------------------------------------: |
-| [Pexels](https://www.pexels.com/)        | Entire Website | all images, background, carousel, about, testimonials & packages |
+| source                                  |    location    |                                                            notes |
+| --------------------------------------- | :------------: | ---------------------------------------------------------------: |
+| [Pexels](https://www.pexels.com/)       | Entire Website | all images, background, carousel, about, testimonials & packages |
 | [FontAwesome](https://fontawesome.com/) |    Footer:     |                                   contact section, social links, |
 | [Favicon](https://favicon.io/)          | Navbar, Title  |    Favicon used on desktop icon tab and used as a logo on navbar |
 
