@@ -14,6 +14,7 @@
 /* Global styles */
 
 body {
+  margin-top: 18%;
   font-family: var(--primary-font);
 }
 
@@ -135,7 +136,7 @@ img {
   background-color: transparent;
   border: none;
   position: absolute;
-  bottom:1%;
+  bottom: 1%;
   left: 0%;
   width: 100%;
 }
@@ -157,6 +158,15 @@ img {
 #footer .social-link i:hover {
   color: var(--highlight-color);
   transition: color 0.3s ease-in-out;
+}
+
+/*Confimtion & Error page*/
+.confirm,
+.error {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
 }
 
 /*Media Queries*/
