@@ -13,16 +13,19 @@ For inquiries, users can contact us using the contact infomation in the footer, 
 From the first click, users should immediately recognize that the website focuses on Zanzibar tours. This is accomplished with a full-width, autoplaying carousel designed to capture attention. High-resolution images are used to enhance visual appeal and create an engaging experience.
 
 ### Color Scheme
+-what was used ti generate color pallete ()
+what was color theme, and why?
 
 ### Typography
 
-- Lato was selected as the primary font for the body text, with sans-serif as a fallback in case Lato fails to load.
+- [Lato](https://fonts.google.com/specimen/Lato) was selected as the primary font for the body text. 
 
-- For headings and subheadings, Playfair Display was used, with Georgia as the backup font.
+- [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) was used for headings and subheadings.
+
+ - [Sans-serif](https://fonts.google.com/?query=sans-serif) was used as a fallback font in case the other fonts fails to load. 
 
 Lato was chosen for its readability and clarity, while Playfair Display, commonly used on luxury websites, provides a blend of traditional and modern aesthetics. The contrast between Lato and Playfair Display creates a visually appealing and well-balanced typographic combination.
 
-FontAwesome icons were used across the site, primarily in the footer.
 
 ### New Site Users
 
@@ -70,7 +73,7 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
     - 'Home' serves as the main page.
     - 'About' and 'Contact' are sections within the Home page, and clicking their respective links will scroll users directly to those sections.
     - 'Packages' directs users to a dedicated Packages page.
-    - 'Book Now'redirects users to the booking page.
+    - 'Book Now' redirects users to the booking page.
 
   - Additionally, the website includes a 404 error page, which appears when a user tries to access a non-existent page, and a success page, which is displayed after successfully submitting the booking form.
   - The website's logo is positioned on the left side of the navigation bar, while the links are aligned to the right.
@@ -131,7 +134,7 @@ This section includes the tools, technologies, and frameworks used in the develo
 - [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome) was used for testing and debugging the website to ensure compatibility across different devices.
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools) is a built-in feature in Google Chrome, which was used for inspecting elements, debugging code- paticularly for media queries.
 - [GitHub](https://github.com) was used to store the website's code.
-- [Git] (https://git-scm.com/) was used for version control, allowing developers to track changes and manage website/project.
+- [Git](https://git-scm.com/) was used for version control, allowing developers to track changes and manage website/project.
 - [Balsamiq](https://balsamiq.com) is a wireframing tool used to create mockup designs before development.
 - [Visual Studio Code](https://code.visualstudio.com/) is a code editor used for writing HTML and CSS.
 - [HTML](https://en.wikipedia.org/wiki/HTML) is the core markup language used to structure the website.
@@ -154,25 +157,24 @@ This section includes the tools, technologies, and frameworks used in the develo
 
 | source                                                                                                                 |        location        |                                                               notes |
 | ---------------------------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------------: |
-| [Code Institute Readme Template] (https://github.com/Code-Institute-Solutions/readme-template)                         |     README.md file     | helped with structuring read me file, layout and content to include |
+| [Code Institute Readme Template](https://github.com/Code-Institute-Solutions/readme-template)                         |     README.md file     | helped with structuring read me file, layout and content to include |
 | [Luna's Leopard Geckos README](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos/blob/main/README.md) |     README.md file     | helped with structuring read me file, layout and content to include |
-| [YouTube] (https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                           |        Carousel        |                                  inspiration for carousel on header |
+| [YouTube](https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                           |        Carousel        |                                  inspiration for carousel on header |
 | [Google Fonts](https://fonts.google.com/)                                                                              |    entired website     |                                           fonts for entire website. |
-| [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)                                                       |    entired website     |        helped understand concepts for entire website/ media queries |
+| [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)                                                       |     entire website     |        helped understand concepts for entire website/ media queries |
 | [Image Resizer](https://imageresizer.com/)                                                                             | testimonies & packages |                            optimized images for better performance. |
-| [ChatGPT](https://chatgpt.com/)                                                                                        | testimonies & packages |                            assisted with heading and text creation. |
-| [FontAwesome] (https://fontawesome.com/)                                                                               |    icons on footer     |                                      contact section, social links, |
-| [Favicon] (https://favicon.io/)                                                                                        |     Navbar, Title      |       Favicon used on desktop icon tab and used as a logo on navbar |
+| [ChatGPT](https://chatgpt.com/)                                                                                        | testimonies & packages |                         assisted with formulating heading and text. |
+| [FontAwesome](https://fontawesome.com/)                                                                               |    icons on footer     |                                      contact section, social links, |
+| [Favicon](https://favicon.io/)                                                                                        |     Navbar, Title      |       Favicon used on desktop icon tab and used as a logo on navbar |
 
 ### Media
 
 This section includes images, fonts, and other media assets that enhance the visual appeal of the website.
 
-| source                                                       |    location    |                                                            notes |
-| ------------------------------------------------------------ | :------------: | ---------------------------------------------------------------: |
-| [Pexels](https://www.pexels.com/)                            | Entire Website | all images, background, carousel, about, testimonials & packages |
-| [YouTube] (https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB) |    Carousel    |                                         add a carousel with text |
-| [FontAwesome] (https://fontawesome.com/)                     |    Footer:     |                                   contact section, social links, |
-| [Favicon] (https://favicon.io/)                              | Navbar, Title  |    Favicon used on desktop icon tab and used as a logo on navbar |
+| source                                   |    location    |                                                            notes |
+| ---------------------------------------- | :------------: | ---------------------------------------------------------------: |
+| [Pexels](https://www.pexels.com/)        | Entire Website | all images, background, carousel, about, testimonials & packages |
+| [FontAwesome](https://fontawesome.com/) |    Footer:     |                                   contact section, social links, |
+| [Favicon](https://favicon.io/)          | Navbar, Title  |    Favicon used on desktop icon tab and used as a logo on navbar |
 
 ### Acknowledgements
