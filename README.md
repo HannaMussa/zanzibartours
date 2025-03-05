@@ -14,8 +14,12 @@ From the first click, users should immediately recognize that the website focuse
 
 ### Color Scheme
 
--what was used ti generate color pallete ()
-what was color theme, and why?
+[Image picker](https://imagecolorpicker.com/) was used to generate a color palette. The color scheme follows a clean and modern style that complements the websites color palette. The key colors include:
+
+- Headings were styled in `tertiary-color: #0c5c59`, providing a strong yet elegant contrast.
+- Navigation links & footer icons used `primary-color: #2f2a30` for a refined, cohesive look.
+- Button hover effects adopted `secondary-color: #f2e9d5`, enhancing interactivity.
+- Hovered buttons and social links featured the `highlight-color: #30bbb4` for emphasis. 
 
 ### Typography
 
@@ -157,6 +161,7 @@ This section includes the tools, technologies, and frameworks used in the develo
 
 | source                                                                                                                 |        location        |                                                               notes |
 | ---------------------------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------------: |
+| [Markdown Builder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)                                   |     README.md file     |                        assisted in understanding markdown language. |
 | [Code Institute Readme Template](https://github.com/Code-Institute-Solutions/readme-template)                          |     README.md file     | helped with structuring read me file, layout and content to include |
 | [Luna's Leopard Geckos README](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos/blob/main/README.md) |     README.md file     | helped with structuring read me file, layout and content to include |
 | [YouTube](https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                            |        Carousel        |                                  inspiration for carousel on header |

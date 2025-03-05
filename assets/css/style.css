@@ -5,12 +5,10 @@
 :root {
   --primary-font: "Lato", sans-serif;
   --secondary-font: "Playfair Display", Georgia;
-
   --primary-color: #2f2a30; /* dark black hut */
   --secondary-color: #f2e9d5; /* Light beige sandy color */
   --tertiary-color: #0c5c59; /* Dark blue ocean color */
   --highlight-color: #30bbb4; /* light blue ocean color */
-  --highlight-off-light: #ae7c06; /* light blue ocean color */
 }
 
 /* Global styles */
@@ -64,8 +62,9 @@ img {
 }
 
 .nav-link:visited {
-  color: var(--highlight-off-light);
+  color: white;
 }
+
 
 /* Navbar */
 
