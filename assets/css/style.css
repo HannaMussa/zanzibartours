@@ -65,7 +65,6 @@ img {
   color: white;
 }
 
-
 /* Navbar */
 
 #navbar {
@@ -149,6 +148,7 @@ img {
 
 #booking .submit {
   display: block;
+  width: 100px;
 }
 
 /*Packages*/
