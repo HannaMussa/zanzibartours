@@ -48,7 +48,7 @@ img {
   border: 2px solid var(--tertiary-color);
   background-color: var(--secondary-color);
   color: black;
-  transition: color 0.1s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 /*Links*/
@@ -58,7 +58,7 @@ img {
 
 .nav-link:hover {
   color: var(--highlight-color);
-  transition: color 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .nav-link:visited {
@@ -88,7 +88,7 @@ img {
 /*about*/
 
 #about {
-  margin: 0%;
+  margin: 0;
 }
 
 .about-image {
@@ -127,10 +127,9 @@ img {
 }
 
 .booking-title {
-  font-size: 2 rem;
+  font-size: 2rem;
   font-weight: 700;
   text-align: start;
-  padding: top 2%;
   margin: 5%;
 }
 
@@ -183,7 +182,7 @@ img {
 
 #footer .social-link i:hover {
   color: var(--highlight-color);
-  transition: color 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 /*Confimtion & Error page*/
@@ -207,16 +206,20 @@ img {
 
   .carousel-caption p,
   .carousel-caption a {
-    font-size: 0.5em;
+    font-size: 1em;
   }
   .carousel-caption {
     bottom: 0%;
   }
   .carousel-caption > p {
-    margin-bottom: 5%;
+    margin-bottom: 7px;
   }
-  .carousel-caption > a {
-    margin-bottom: 5%;
+
+  .carousel-inner .btn {
+    width: 90px;
+    height: fit-content;
+    padding: 10px;
+    font-size: 0.5em;
   }
 }
 
