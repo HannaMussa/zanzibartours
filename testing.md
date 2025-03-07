@@ -11,8 +11,8 @@ he tables below detail the validation process, including the specific errors det
  
  **Page** | **Screenshot** | **Changes to be made** | **Changes made** | **Final result** 
 ---|---|---|---|---
- Home | ![screenot](assets/images/testing/validator/index-v-before.png) | Stray div | Removed stray div | ![screenot](assets/images/testing/validator/index-v-after.png) 
- Book Now | ![screenot](assets/images/testing/validator/booking-v-before.png) | The input type was set incorrectly.  <br><br> The required attribute was duplicated, <br><br> The form method and action were written incorrectly. The form element was not closed correctly. | Changed the input type to 'text' to ensure the placeholder attribute functions correctly. <br><br> Removed the duplicate 'required' attribute. <br><br> Updated the form's method to 'GET' and set its action to 'confirmation.html'. Closed the form element correctly. | ![screenot](assets/images/testing/validator/booking-v-after.png) 
+ Home | ![screenot](assets/images/documentation/testing/validator/index-v-before.png) | Stray div | Removed stray div | ![screenot](assets/images/documentation/testing/validator/index-v-after.png) 
+ Book Now | ![screenot](assets/images/documentation/testing/validator/booking-v-before.png) | The input type was set incorrectly.  <br><br> The required attribute was duplicated, <br><br> The form method and action were written incorrectly. The form element was not closed correctly. | Changed the input type to 'text' to ensure the placeholder attribute functions correctly. <br><br> Removed the duplicate 'required' attribute. <br><br> Updated the form's method to 'GET' and set its action to 'confirmation.html'. Closed the form element correctly. | ![screenot](assets/images/documentation/testing/validator/booking-v-after.png) 
 
  - The packages page is not included in the table above as it passed the HTML validation test.
 
@@ -23,7 +23,7 @@ he tables below detail the validation process, including the specific errors det
 
  **Page** | **Screenshot** | **Changes to be made** | **Changes made** | **Updated Screenshot** 
 ---|---|---|---|---
- CSS style sheet | ![screenot](assets/images/testing/validator/css-v-before.png) | Font-size and padding values / format were incorrect  | Padding removed as it was not necessary and font-size value was chnaged | ![screenot](assets/images/testing/validator/css-v-after.png) 
+ CSS style sheet | ![screenot](assets/images/documentation/testing/validator/css-v-before.png) | Font-size and padding values / format were incorrect  | Padding removed as it was not necessary and font-size value was chnaged | ![screenot](assets/images/documentation/testing/validator/css-v-after.png) 
   |  |  |  |  
 
  </details>
@@ -39,7 +39,7 @@ Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web pag
 
  </details>
 
- 
+
 ## User Story Testing
 ## Bugs
 ## Unfixed Bugs

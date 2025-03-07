@@ -64,16 +64,16 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <summary>Click here to view the Mobile Wireframes</summary>
 
 - **Home Page**  
-  ![screenshot](assets/images/wireframes/mobile-home.png)  
+  ![screenshot](assets/images/documentation/wireframes/mobile-home.png)  
 
 - **Packages Page**  
-  ![screenshot](assets/images/wireframes/mobile-packages.png)  
+  ![screenshot](assets/images/documentation/wireframes/mobile-packages.png)  
 
 - **Booking Page**  
-  ![screenshot](assets/images/wireframes/mobile-booking.png)  
+  ![screenshot](assets/images/documentation/wireframes/mobile-booking.png)  
 
 - **Error Page**  
-  ![screenshot](assets/images/wireframes/mobile-error.png)  
+  ![screenshot](assets/images/documentation/wireframes/mobile-error.png)  
 
 </details>
 
@@ -84,16 +84,16 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <summary>Click here to view the Tablet Wireframes</summary>
 
 - **Home Page**  
-  ![screenshot](assets/images/wireframes/tablet-home.png)  
+  ![screenshot](assets/images/documentation/wireframes/tablet-home.png)  
 
 - **Packages Page**  
-  ![screenshot](assets/images/wireframes/tablet-packages.png)  
+  ![screenshot](assets/images/documentation/wireframes/tablet-packages.png)  
 
 - **Booking Page**  
-  ![screenshot](assets/images/wireframes/tablet-booking.png)  
+  ![screenshot](assets/images/documentation/wireframes/tablet-booking.png)  
 
 - **Error Page**  
-  ![screenshot](assets/images/wireframes/tablet-error.png)  
+  ![screenshot](assets/images/documentation/wireframes/tablet-error.png)  
 
 </details>
 
@@ -104,16 +104,16 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <summary>Click here to view the Desktop Wireframes</summary>
 
 - Home Page  
-  ![screenshot](assets/images/wireframes/desktop-home.png)
+  ![screenshot](assets/images/documentation/wireframes/desktop-home.png)
 
 - Packages Page  
-  ![screenshot](assets/images/wireframes/desktop-packages.png)
+  ![screenshot](assets/images/documentation/wireframes/desktop-packages.png)
 
 - Booking Page  
-  ![screenshot](assets/images/wireframes/desktop-booking.png)
+  ![screenshot](assets/images/documentation/wireframes/desktop-booking.png)
 
 - Error Page  
-  ![screenshot](assets/images/wireframes/desktop-error.png)
+  ![screenshot](assets/images/documentation/wireframes/desktop-error.png)
 
 </details>
 
