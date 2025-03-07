@@ -204,7 +204,7 @@ To view the testing carried out, please refer to the [TESTING.md](TESTING.md) fi
 ## Deployment
 
 1. Log in to GitHub.
-2. Search for and select the **[zanzaibrtours](https://hannamussa.github.io/zanzibartours/)**
+2. Search for and select the **[zanzibartours](https://hannamussa.github.io/zanzibartours/)**
    repository.
 3. Navigate to the **Settings** tab.
 4. In the left sidebar, go to **Pages** under the **Code and automation** section.
@@ -222,7 +222,7 @@ To make a local copy on your own system, you can clone or fork this project.
 
 You can clone the repository by following these steps:
 
-1. Log in to GitHub and navigate to the **[zanzaibrtours](https://hannamussa.github.io/zanzibartours/)** repository.
+1. Log in to GitHub and navigate to the **[zanzibartours](https://hannamussa.github.io/zanzibartours/)** repository.
 2. Click the Code button (green dropdown).
 3. Copy the repository URL (using HTTPS, SSH, or GitHub CLI).
 4. Open your preffered code editor and navigate to the terminal tab.
@@ -233,7 +233,7 @@ You can clone the repository by following these steps:
 
 Forking a repository allows you to create a personal copy of a project.
 
-1. Log in to GitHub and navigate to the **[zanzaibrtours](https://hannamussa.github.io/zanzibartours/)** repository.
+1. Log in to GitHub and navigate to the **[zanzibartours](https://hannamussa.github.io/zanzibartours/)** repository.
 2. Click **Fork**, then select **Create a new fork**.
 3. Enter a name for your forked repository.
 4. Click **Create fork**.
