@@ -61,10 +61,6 @@ img {
   transition: all 0.3s ease-in-out;
 }
 
-.nav-link:visited {
-  color: white;
-}
-
 /* Navbar */
 
 #navbar {
@@ -154,7 +150,7 @@ img {
 }
 
 #packages .btn {
-  padding: 3px;
+  padding: 2px;
 }
 
 #packages .card-footer {
@@ -216,7 +212,6 @@ img {
   }
 
   .carousel-inner .btn {
-    width: 90px;
     height: fit-content;
     padding: 10px;
     font-size: 0.5em;
