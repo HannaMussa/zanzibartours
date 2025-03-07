@@ -268,4 +268,3 @@ This section includes images, fonts, and other media assets that enhance the vis
 
 ### Acknowledgements
 
-- I would like to express my gratitude to my tutor, Robert Thompson, and my mentor, Victor Miclovich, for their assistance during the development of this project.
