@@ -19,7 +19,7 @@ From the first click, users should immediately recognize that the website focuse
 - Headings were styled in `tertiary-color: #0c5c59`, providing a strong yet elegant contrast.
 - Navigation links & footer icons used `primary-color: #2f2a30` for a refined, cohesive look.
 - Button hover effects adopted `secondary-color: #f2e9d5`, enhancing interactivity.
-- Hovered buttons and social links featured the `highlight-color: #30bbb4` for emphasis. 
+- Hovered buttons and social links featured the `highlight-color: #30bbb4` for emphasis.
 
 ### Typography
 
@@ -63,29 +63,57 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <details>
 <summary>Click here to view the Mobile Wireframes</summary>
 
- - Home page
- - Packages page
- - Booking page
+- **Home Page**  
+  ![screenshot](assets/images/wireframes/mobile-home.png)  
+
+- **Packages Page**  
+  ![screenshot](assets/images/wireframes/mobile-packages.png)  
+
+- **Booking Page**  
+  ![screenshot](assets/images/wireframes/mobile-booking.png)  
+
+- **Error Page**  
+  ![screenshot](assets/images/wireframes/mobile-error.png)  
 
 </details>
 
+
 ### Tablet Wireframes
+
 <details>
 <summary>Click here to view the Tablet Wireframes</summary>
 
- - Home page
- - Packages page
- - Booking page
+- **Home Page**  
+  ![screenshot](assets/images/wireframes/tablet-home.png)  
+
+- **Packages Page**  
+  ![screenshot](assets/images/wireframes/tablet-packages.png)  
+
+- **Booking Page**  
+  ![screenshot](assets/images/wireframes/tablet-booking.png)  
+
+- **Error Page**  
+  ![screenshot](assets/images/wireframes/tablet-error.png)  
 
 </details>
 
+
 ### Desktop Wireframes
+
 <details>
 <summary>Click here to view the Desktop Wireframes</summary>
 
- - Home page
- - Packages page
- - Booking page
+- Home Page  
+  ![screenshot](assets/images/wireframes/desktop-home.png)
+
+- Packages Page  
+  ![screenshot](assets/images/wireframes/desktop-packages.png)
+
+- Booking Page  
+  ![screenshot](assets/images/wireframes/desktop-booking.png)
+
+- Error Page  
+  ![screenshot](assets/images/wireframes/desktop-error.png)
 
 </details>
 
@@ -170,18 +198,19 @@ This section includes the tools, technologies, and frameworks used in the develo
 - [Bootstrap](https://getbootstrap.com) is a front-end framework used for responsive designs when creating websites.
 
 ## Testing
- To view the testing carried out, please refer to the [TESTING.md](TESTING.md) file.
+
+To view the testing carried out, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
-1. Log in to GitHub.  
+1. Log in to GitHub.
 2. Search for and select the **[zanzaibrtours](https://hannamussa.github.io/zanzibartours/)**
-repository.  
-3. Navigate to the **Settings** tab.  
-4. In the left sidebar, go to **Pages** under the **Code and automation** section.  
-5. Under the **Build and deployment** section, locate the **Branch** dropdown.  
-6. Select **main** as the branch.  
-7. Click **Save** to apply the changes. 
+   repository.
+3. Navigate to the **Settings** tab.
+4. In the left sidebar, go to **Pages** under the **Code and automation** section.
+5. Under the **Build and deployment** section, locate the **Branch** dropdown.
+6. Select **main** as the branch.
+7. Click **Save** to apply the changes.
 
 [View the live site here](https://hannamussa.github.io/zanzibartours/)
 
@@ -193,28 +222,28 @@ To make a local copy on your own system, you can clone or fork this project.
 
 You can clone the repository by following these steps:
 
-1. Log in to GitHub and navigate to the **[zanzaibrtours](https://hannamussa.github.io/zanzibartours/)** repository.   
+1. Log in to GitHub and navigate to the **[zanzaibrtours](https://hannamussa.github.io/zanzibartours/)** repository.
 2. Click the Code button (green dropdown).
 3. Copy the repository URL (using HTTPS, SSH, or GitHub CLI).
 4. Open your preffered code editor and navigate to the terminal tab.
-5. Type the folllowing to clone my repository: - `git clone https://github.com/hannamussa/zanzibartours.git`
+5. Type the folllowing to clone my repository: `git clone https://github.com/hannamussa/zanzibartours.git`
 6. Press Enter to create your local clone.
 
 #### Forking
+
 Forking a repository allows you to create a personal copy of a project.
 
-1. Log in to GitHub and navigate to the **[zanzaibrtours](https://hannamussa.github.io/zanzibartours/)** repository.   
-2. Click **Fork**, then select **Create a new fork**.  
-3. Enter a name for your forked repository.  
-4. Click **Create fork**.  
+1. Log in to GitHub and navigate to the **[zanzaibrtours](https://hannamussa.github.io/zanzibartours/)** repository.
+2. Click **Fork**, then select **Create a new fork**.
+3. Enter a name for your forked repository.
+4. Click **Create fork**.
 5. The forked repository will now appear in your GitHub account.
-
 
 ## Credits
 
 ### Content
 
-source                                                                                                                 |        location        |                                                               notes |
+| source                                                                                                                 |        location        |                                                               notes |
 | ---------------------------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------------: |
 | [Markdown Builder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)                                   |     README.md file     |                        assisted in understanding markdown language. |
 | [Code Institute Readme Template](https://github.com/Code-Institute-Solutions/readme-template)                          |     README.md file     | helped with structuring read me file, layout and content to include |
@@ -239,4 +268,4 @@ This section includes images, fonts, and other media assets that enhance the vis
 
 ### Acknowledgements
 
- - I would like to express my gratitude to my tutor, Robert Thompson, and my mentor, Victor Miclovich, for their assistance during the development of this project.
+- I would like to express my gratitude to my tutor, Robert Thompson, and my mentor, Victor Miclovich, for their assistance during the development of this project.
