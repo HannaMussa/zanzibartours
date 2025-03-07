@@ -28,6 +28,9 @@ he tables below detail the validation process, including the specific errors det
 
  </details>
 
+## Browser Compatibility
+## Responsiveness
+
 ## Lighthouse Audit
 <details>
 <summary>Click here  to view the Lighthouse Audit </summary>
@@ -35,3 +38,8 @@ he tables below detail the validation process, including the specific errors det
 Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web page by running audits, providing detailed reports, and suggesting improvements.
 
  </details>
+
+ 
+## User Story Testing
+## Bugs
+## Unfixed Bugs
