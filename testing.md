@@ -32,13 +32,24 @@ he tables below detail the validation process, including the specific errors det
 ## Responsiveness
 
 ## Lighthouse Audit
+Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web page by running audits, providing detailed reports, and suggesting improvements.
+
 <details>
 <summary>Click here  to view the Lighthouse Audit </summary>
  
-Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web page by running audits, providing detailed reports, and suggesting improvements.
 
  </details>
 
+## WAVE Web Accessibility Evaluation Tool 
+
+The [WAVE](https://wave.webaim.org/) tool analyzes structure, contrast, and accessibility issues, providing visual feedback for web pages.
+
+<details>
+<summary>Click here  to view the WAVE Feedback </summary>
+ 
+
+ </details>
+ 
 
 ## User Story Testing
 ## Bugs
