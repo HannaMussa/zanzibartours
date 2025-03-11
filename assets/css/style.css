@@ -8,7 +8,7 @@
   --primary-color: #2f2a30; /* dark black hut */
   --secondary-color: #f2e9d5; /* Light beige sandy color */
   --tertiary-color: #0c5c59; /* Dark blue ocean color */
-  --highlight-color: #207E7E; /* light blue ocean color */
+  --highlight-color: #207e7e; /* light blue ocean color */
 }
 
 /* Global styles */
@@ -31,7 +31,7 @@ h3 {
 
 img {
   aspect-ratio: 16 / 9;
-  /* object-fit: cover; */
+  object-fit: cover;
   max-width: 100%;
   height: auto;
 }
@@ -69,7 +69,7 @@ img {
 
 /*carousel*/
 .c-image {
-  filter: brightness(0.5);
+  filter: brightness(0.6);
 }
 
 .carousel-item {
@@ -206,7 +206,7 @@ img {
   }
   .carousel-caption {
     bottom: 0%;
-    top:30%;
+    top: 30%;
   }
   .carousel-caption > p {
     margin-bottom: 3px;
@@ -278,12 +278,15 @@ img {
 @media (min-width: 1200px) {
   .carousel-caption h1,
   .carousel-caption h2 {
-    font-size: 2.5em;
+    font-size: 4em;
   }
 
-  .carousel-caption p,
+  .carousel-caption p {
+    font-size: 3em;
+  }
+
   .carousel-caption a {
-    font-size: 1.5em;
+    font-size: 2em;
   }
   #testimonial .card {
     height: 21rem;

@@ -60,23 +60,23 @@ Lato was chosen for its readability and clarity, while Playfair Display, commonl
 Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 
 ### Mobile Wireframes
+
 <details>
 <summary>Click here to view the Mobile Wireframes</summary>
 
 - **Home Page**  
-  ![screenshot](assets/images/documentation/wireframes/mobile-home.png)  
+  ![screenshot](assets/images/documentation/wireframes/mobile-home.png)
 
 - **Packages Page**  
-  ![screenshot](assets/images/documentation/wireframes/mobile-packages.png)  
+  ![screenshot](assets/images/documentation/wireframes/mobile-packages.png)
 
 - **Booking Page**  
-  ![screenshot](assets/images/documentation/wireframes/mobile-booking.png)  
+  ![screenshot](assets/images/documentation/wireframes/mobile-booking.png)
 
 - **Error Page**  
-  ![screenshot](assets/images/documentation/wireframes/mobile-error.png)  
+  ![screenshot](assets/images/documentation/wireframes/mobile-error.png)
 
 </details>
-
 
 ### Tablet Wireframes
 
@@ -84,19 +84,18 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <summary>Click here to view the Tablet Wireframes</summary>
 
 - **Home Page**  
-  ![screenshot](assets/images/documentation/wireframes/tablet-home.png)  
+  ![screenshot](assets/images/documentation/wireframes/tablet-home.png)
 
 - **Packages Page**  
-  ![screenshot](assets/images/documentation/wireframes/tablet-packages.png)  
+  ![screenshot](assets/images/documentation/wireframes/tablet-packages.png)
 
 - **Booking Page**  
-  ![screenshot](assets/images/documentation/wireframes/tablet-booking.png)  
+  ![screenshot](assets/images/documentation/wireframes/tablet-booking.png)
 
 - **Error Page**  
-  ![screenshot](assets/images/documentation/wireframes/tablet-error.png)  
+  ![screenshot](assets/images/documentation/wireframes/tablet-error.png)
 
 </details>
-
 
 ### Desktop Wireframes
 
