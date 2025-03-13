@@ -81,6 +81,12 @@ img {
   top: 35%;
 }
 
+/* Contrast */
+
+.car-text-shadow {
+  background-color: rgba(0, 0, 0, 0.014);
+}
+
 /*about*/
 
 #about {
