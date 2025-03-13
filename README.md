@@ -195,6 +195,7 @@ This section includes the tools, technologies, and frameworks used in the develo
 - [HTML](https://en.wikipedia.org/wiki/HTML) is the core markup language used to structure the website.
 - [CSS](https://en.wikipedia.org/wiki/CSS) was used for styling the website’s appearance.
 - [Bootstrap](https://getbootstrap.com) is a front-end framework used for responsive designs when creating websites.
+[11zon](https://www.11zon.com/) is an image compressor that was used to reduce image sizes, ensuring faster page loading.
 
 ## Testing
 
