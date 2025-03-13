@@ -40,6 +40,7 @@ Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web pag
 <details>
 <summary>Click here  to view the Lighthouse Audit </summary>
 
+
  </details>
 
 ## WAVE Web Accessibility Evaluation Tool
