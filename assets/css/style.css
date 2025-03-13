@@ -120,8 +120,8 @@ img {
 
 /*Booking form*/
 .booking-container {
-  background-image: url("../images/booking-bg.jpg");
-  filter: brightness(0.7);
+  background-image: url("../images/booking.webp");
+  filter: brightness(0.9);
   background-size: cover;
   background-position: center;
   padding: 5rem;
