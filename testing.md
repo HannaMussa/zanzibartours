@@ -40,6 +40,15 @@ Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web pag
 <details>
 <summary>Click here  to view the Lighthouse Audit </summary>
 
+| Page     | Size    | Screenshot Before  | Lighthouse Suggestions  | Changes Made  | Screenshot After  |
+|----------|--------|--------------------|-------------------------|--------------|-------------------|
+| Home     | Mobile | ![](assets/images/documentation/testing/lighthouse/index-mobile-before.png) | ![](assets/images/documentation/testing/lighthouse/index-detail.png) | Resized & compressed images for faster loading | ![](assets/images/documentation/testing/lighthouse/index-mobile-after.png) |
+| Home     | Desktop | ![](assets/images/documentation/testing/lighthouse/index-desktop-before.png) | Similar to above | Resized & compressed images for faster loading | ![](assets/images/documentation/testing/lighthouse/index-desktop-after.png) |
+| Packages | Mobile | ![](assets/images/documentation/testing/lighthouse/packages-mobile-before.png) | ![](assets/images/documentation/testing/lighthouse/packages-detail.png) | Resized & compressed images for faster loading | ![](assets/images/documentation/testing/lighthouse/packages-mobile-after.png) |
+| Packages | Desktop | ![](assets/images/documentation/testing/lighthouse/packages-desktop-before.png) | Similar to above | Resized & compressed images for faster loading | ![](assets/images/documentation/testing/lighthouse/packages-desktop-after.png) |
+| Booking  | Mobile | ![](assets/images/documentation/testing/lighthouse/booking-mobile-before.png) | ![](assets/images/documentation/testing/lighthouse/booking-detail.png) | Removed background image for contrast & faster loading | ![](assets/images/documentation/testing/lighthouse/booking-mobile-after.png) |
+| Booking  | Desktop | ![](assets/images/documentation/testing/lighthouse/booking-desktop-before.png) | Similar to above | Removed background image for contrast & faster loading | ![](assets/images/documentation/testing/lighthouse/booking-desktop-after.png) |
+
 
  </details>
 
