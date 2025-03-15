@@ -158,6 +158,7 @@ label {
 /*Footer*/
 #footer {
   background-color: var(--secondary-color);
+  padding: 1em;
 }
 
 #footer i {
@@ -172,6 +173,9 @@ label {
 #footer .social-link i:hover {
   color: var(--highlight-color);
   transition: all 0.3s ease-in-out;
+}
+#footer a {
+  text-decoration: none;
 }
 
 /*Confimtion & Error page*/
