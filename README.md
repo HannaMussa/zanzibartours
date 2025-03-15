@@ -33,7 +33,7 @@ Lato was chosen for its readability and clarity, while Playfair Display, commonl
 
 ### New Site Users
 
-- As a new user I would like to understand the purpose of this site for ease of convienicne.
+- As a new user I would like to understand the purpose of this site for ease of convenience.
 - As a new user, I would like to easily navigate the site, as this would be user-friendly and convenient.
 - As a new user, I would like to contact the owner and view their opening hours so I can contact them and discuss any questions.
 - As a new user, I would like to book a tour for convenience.

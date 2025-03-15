@@ -33,6 +33,36 @@ he tables below detail the validation process, including the specific errors det
 
 ## Responsiveness
 
+<details>
+<summary>Click here  to view the Index.html responsiveness</summary>
+
+| Device             | Mobile                                                                                  | Tablet                                                                                  | Laptop                                                                                  | XL Devices                                                                          |
+| ------------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Index-Carousel     | ![screenshot](assets/images/documentation/testing/responsive/index/i-mobile-car.png)    | ![screenshot](assets/images/documentation/testing/responsive/index/i-tablet-car.png)    | ![screenshot](assets/images/documentation/testing/responsive/index/i-laptop-car.png)    | ![screenshot](assets/images/documentation/testing/responsive/index/i-xl-car.png)    |
+| Index-About        | ![screenshot](assets/images/documentation/testing/responsive/index/i-mobile-about.png)  | ![screenshot](assets/images/documentation/testing/responsive/index/i-tablet-about.png)  | ![screenshot](assets/images/documentation/testing/responsive/index/i-laptop-about.png)  | ![screenshot](assets/images/documentation/testing/responsive/index/i-xl-about.png)  |
+| Index-Testimonials | ![screenshot](assets/images/documentation/testing/responsive/index/i-mobile-test.png)   | ![screenshot](assets/images/documentation/testing/responsive/index/i-tablet-test.png)   | ![screenshot](assets/images/documentation/testing/responsive/index/i-laptop-test.png)   | ![screenshot](assets/images/documentation/testing/responsive/index/i-xl-test.png)   |
+| Index-Footer       | ![screenshot](assets/images/documentation/testing/responsive/index/i-mobile-footer.png) | ![screenshot](assets/images/documentation/testing/responsive/index/i-tablet-footer.png) | ![screenshot](assets/images/documentation/testing/responsive/index/i-laptop-footer.png) | ![screenshot](assets/images/documentation/testing/responsive/index/i-xl-footer.png) |
+
+</details>
+
+<details>
+<summary>Click here  to view the Packages.html responsiveness</summary>
+
+| Device        | Mobile                                                                                   | Tablet                                                                                   | Laptop                                                                                   | XL Devices                                                                           |
+| ------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Packages-Card | ![screenshot](assets/images/documentation/testing/responsive/packages/p-mobile-card.png) | ![screenshot](assets/images/documentation/testing/responsive/packages/p-tablet-card.png) | ![screenshot](assets/images/documentation/testing/responsive/packages/p-laptop-card.png) | ![screenshot](assets/images/documentation/testing/responsive/packages/p-xl-card.png) |
+
+</details>
+
+<details>
+<summary>Click here  to view the Booking.html responsiveness</summary>
+
+| Device       | Mobile                                                                                  | Tablet                                                                                  | Laptop                                                                                  | XL Devices                                                                          |
+| ------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Booking Form | ![screenshot](assets/images/documentation/testing/responsive/booking/b-mobile-form.png) | ![screenshot](assets/images/documentation/testing/responsive/booking/b-tablet-form.png) | ![screenshot](assets/images/documentation/testing/responsive/booking/b-laptop-form.png) | ![screenshot](assets/images/documentation/testing/responsive/booking/b-xl-form.png) |
+
+</details>
+
 ## Lighthouse Audit
 
 Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web page by running audits, providing detailed reports, and suggesting improvements.
@@ -40,15 +70,14 @@ Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web pag
 <details>
 <summary>Click here  to view the Lighthouse Audit </summary>
 
-| Page     | Size    | Screenshot Before  | Lighthouse Suggestions  | Changes Made  | Screenshot After  |
-|----------|--------|--------------------|-------------------------|--------------|-------------------|
-| Home     | Mobile | ![](assets/images/documentation/testing/lighthouse/index-mobile-before.png) | ![](assets/images/documentation/testing/lighthouse/index-detail.png) | Resized & compressed images for faster loading | ![](assets/images/documentation/testing/lighthouse/index-mobile-after.png) |
-| Home     | Desktop | ![](assets/images/documentation/testing/lighthouse/index-desktop-before.png) | Similar to above | Resized & compressed images for faster loading | ![](assets/images/documentation/testing/lighthouse/index-desktop-after.png) |
-| Packages | Mobile | ![](assets/images/documentation/testing/lighthouse/packages-mobile-before.png) | ![](assets/images/documentation/testing/lighthouse/packages-detail.png) | Resized & compressed images for faster loading | ![](assets/images/documentation/testing/lighthouse/packages-mobile-after.png) |
-| Packages | Desktop | ![](assets/images/documentation/testing/lighthouse/packages-desktop-before.png) | Similar to above | Resized & compressed images for faster loading | ![](assets/images/documentation/testing/lighthouse/packages-desktop-after.png) |
-| Booking  | Mobile | ![](assets/images/documentation/testing/lighthouse/booking-mobile-before.png) | ![](assets/images/documentation/testing/lighthouse/booking-detail.png) | Removed background image for contrast & faster loading | ![](assets/images/documentation/testing/lighthouse/booking-mobile-after.png) |
-| Booking  | Desktop | ![](assets/images/documentation/testing/lighthouse/booking-desktop-before.png) | Similar to above | Removed background image for contrast & faster loading | ![](assets/images/documentation/testing/lighthouse/booking-desktop-after.png) |
-
+| Page     | Size    | Screenshot Before                                                               | Lighthouse Suggestions                                                  | Changes Made                                           | Screenshot After                                                               |
+| -------- | ------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Home     | Mobile  | ![](assets/images/documentation/testing/lighthouse/index-mobile-before.png)     | ![](assets/images/documentation/testing/lighthouse/index-detail.png)    | Resized & compressed images for faster loading         | ![](assets/images/documentation/testing/lighthouse/index-mobile-after.png)     |
+| Home     | Desktop | ![](assets/images/documentation/testing/lighthouse/index-desktop-before.png)    | Similar to above                                                        | Resized & compressed images for faster loading         | ![](assets/images/documentation/testing/lighthouse/index-desktop-after.png)    |
+| Packages | Mobile  | ![](assets/images/documentation/testing/lighthouse/packages-mobile-before.png)  | ![](assets/images/documentation/testing/lighthouse/packages-detail.png) | Resized & compressed images for faster loading         | ![](assets/images/documentation/testing/lighthouse/packages-mobile-after.png)  |
+| Packages | Desktop | ![](assets/images/documentation/testing/lighthouse/packages-desktop-before.png) | Similar to above                                                        | Resized & compressed images for faster loading         | ![](assets/images/documentation/testing/lighthouse/packages-desktop-after.png) |
+| Booking  | Mobile  | ![](assets/images/documentation/testing/lighthouse/booking-mobile-before.png)   | ![](assets/images/documentation/testing/lighthouse/booking-detail.png)  | Removed background image for contrast & faster loading | ![](assets/images/documentation/testing/lighthouse/booking-mobile-after.png)   |
+| Booking  | Desktop | ![](assets/images/documentation/testing/lighthouse/booking-desktop-before.png)  | Similar to above                                                        | Removed background image for contrast & faster loading | ![](assets/images/documentation/testing/lighthouse/booking-desktop-after.png)  |
 
  </details>
 
