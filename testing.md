@@ -147,6 +147,19 @@ The [WAVE](https://wave.webaim.org/) tool analyzes structure, contrast, and acce
 
 ## Bugs
 
+<details>
+<summary>Click here to view the Bugs </summary>
+
+| Bug                                                                                                | Solution Implemented                                                                          | Outcome Screenshot                                                                    |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Navbar difficult to access** – Users had to scroll to the top to navigate between pages.         | Added `fixed-top` to `<nav>` for a persistent navbar.                                         | ![Navbar Issue](assets/images/documentation/testing/bugs/navbar.png)                  |
+| **Carousel text lacked contrast** – The text was hard to read against the background.              | Applied `background-color: rgba(0, 0, 0, 0.014)` to the header for better contrast.           | ![Carousel Issue](assets/images/documentation/testing/bugs/carousel.png)              |
+| **Testimonial card not responsive** – Layout broke on different screen sizes.                      | Used media queries: Min-width 992px → height 25rem, Min-width 1200px → height 23rem.          | ![Testimonial Responsiveness](assets/images/documentation/testing/bugs/test-resp.png) |
+| **Package card not responsive** – Content overflowed or misaligned on various devices.             | Standardized image sizes and ensured `<p>` elements had a similar word count for consistency. | ![Package Responsiveness](assets/images/documentation/testing/bugs/packages-resp.png) |
+| **Booking form selector pre-selected by default** – Users could not start with an empty selection. | Added `selected disabled` to the "Select a tour" `<option>` to prevent auto-selection.        | ![Booking Form Issue](assets/images/documentation/testing/bugs/booking.png)           |
+
+</details>
+
 ## Unfixed Bugs
 
 - At this time, no known unresolved bugs have been identified
