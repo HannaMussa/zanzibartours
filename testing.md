@@ -145,6 +145,32 @@ The [WAVE](https://wave.webaim.org/) tool analyzes structure, contrast, and acce
 
 </details>
 
+## Testing Existing Features
+
+<details>
+<summary>Click here to view the testing for existing features </summary>
+
+| Feature                         | Test Action                                        | Expected Outcome                                       |
+|---------------------------------|--------------------------------------------------|------------------------------------------------------|
+| Logo                            | Click the logo in the navbar                     | Redirects to the home page                          |
+| Navbar | Home Page              | Click the "Home" link in the navbar              | Redirects to the home page                          |
+| Navbar | About                  | Click the "About" link in the navbar             | Scrolls to the About section on the home page       |
+| Navbar | Packages Page          | Click the "Packages" link in the navbar          | Redirects to the Packages page                      |
+| Navbar | Booking Page           | Click the "Booking" link in the navbar           | Redirects to the Booking page                       |
+| Navbar | Contact                | Click the "Contact" link in the navbar           | Scrolls to the footer section                       |
+| Button on Carousel              | Click the button on the carousel on the Home page                | Redirects to the Packages page                      |
+| Indicator on Carousel           | Click an indicator on the carousel               | Displays the corresponding image in the carousel    |
+| Icons in Footer                 | Click a social media icon in the footer          | Redirects to the respective social media page       |
+| Newsletter Sign-up Button       | Click the "Sign Up" button after entering an email | Redirects to the confirmation page                  |
+| Packages Card Button            | Click the button on a package card               | Redirects to the Booking page                       |
+| Form Required Fields            | Attempt to submit the form without required inputs | Displays an error message for missing fields        |
+| Booking Form Submit Button      | Click the "Submit" button on the booking form    | Redirects to the confirmation page                  |
+| Error Page                      | Enter an incorrect URL for the website           | Displays the error page                             |
+| Confirmation Page               | Complete and submit the booking form             | Displays the confirmation page                      |
+
+
+</details>
+
 ## Bugs
 
 <details>
