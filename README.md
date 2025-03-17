@@ -136,11 +136,11 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 
 - **Footer**
 
-  - The footer appears at the bottom of every page, extending across the full width of the screen. It includes contact information, social media links, opening times, a newsletter subscription, and copyright details.
+  - The footer appears at the bottom of every page, extending across the full width of the screen. It includes contact information, social media links, opening times, and a newsletter subscription.
 
 - **Home page**
 
-  - The header on the main page features a responsive, autoplaying carousel with three slides, each showcasing scenic images of Zanzibar. The carousel spans the full width of the screen and includes a header, a short phrase, and a button that links users to the Packages page.
+  - The header on the main page features a responsive, autoplaying carousel with three slides, each showcasing scenic images of Zanzibar. The autoplaying carousel spans the full width of the screen and includes a header, a short paragraph, and a button that links users to the Packages page.
   - The About section features an image alongside a brief description of Zanzibar Tours, highlighting its offerings. On mobile and tablet screens, the image and description stack vertically, while on desktop screens and larger, the section spans the full width of the screen.
   - The Testimonial section includes six reviews from past customers and is fully responsive.
     - On mobile screens, testimonials stack vertically, with each one occupying the full width.
@@ -151,7 +151,6 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 
   - The Packages page consists of twelve cards, each showcasing an image of the tour's scenic views, a brief description of the experience, and a footer section with a button that links to the booking form, allowing users to book a tour.
   - The layout is fully responsive:
-
     - On mobile screens, one package card takes up the full width.
     - On tablet-sized screens, two cards are displayed per row, spanning the entire width.
     - On large screens, four package cards are displayed per row, utilizing the full screen width.
@@ -162,10 +161,11 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 
 - **Confirmation page**
 
-  - The Confirmation Page appears after users submit the booking form. After 10 seconds, they are automatically redirected to the Home page.
+  - The Confirmation Page appears after users submit the booking form. A button is displayed, allowing users to return to the home page.
 
 - **Error 404 page**
-  - The 404 Error Page is displayed when a user tries to access a non-existent page. Like the confirmation page, it redirects users to the Home page after 10 seconds.
+
+  - The 404 Error Page is shown when a user attempts to access a non-existent page. Like the Confirmation Page, it includes a button that users can click to return to the home page.
 
 ### Future Features
 
@@ -186,8 +186,8 @@ These are potential future features for the website:
 
 This section includes the tools, technologies, and frameworks used in the development of the website.
 
-- [Google Chrome](https://en.wikipedia.org/wiki/Google_Chrome) was used for testing and debugging the website to ensure compatibility across different devices.
-- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools) is a built-in feature in Google Chrome, which was used for inspecting elements, debugging code- paticularly for media queries.
+- [Google Chrome](https://www.google.com/chrome/), [Microsoft Edge](https://www.microsoft.com/edge), [Mozilla Firefox](https://www.mozilla.org/firefox/), [Opera](https://www.opera.com/) and [Brave](https://brave.com/) was used for testing the website to ensure compatibility across different devices.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools) is a built-in feature in Google Chrome, which was used for inspecting elements and debugging code- paticularly for media queries.
 - [GitHub](https://github.com) was used to store the website's code.
 - [Git](https://git-scm.com/) was used for version control, allowing developers to track changes and manage website/project.
 - [Balsamiq](https://balsamiq.com) is a wireframing tool used to create mockup designs before development.
@@ -195,7 +195,7 @@ This section includes the tools, technologies, and frameworks used in the develo
 - [HTML](https://en.wikipedia.org/wiki/HTML) is the core markup language used to structure the website.
 - [CSS](https://en.wikipedia.org/wiki/CSS) was used for styling the website’s appearance.
 - [Bootstrap](https://getbootstrap.com) is a front-end framework used for responsive designs when creating websites.
-[11zon](https://www.11zon.com/) is an image compressor that was used to reduce image sizes, ensuring faster page loading.
+  [11zon](https://www.11zon.com/) is an image compressor that was used to reduce image sizes, ensuring faster page loading.
 
 ## Testing
 
