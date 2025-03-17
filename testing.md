@@ -1,20 +1,22 @@
 ## Code Validation
 
-To ensure code quality and identify major issues, each page undergoes validation. HTML was validated using [The W3C Markup Validation Service](https://validator.w3.org/) and CSS is validated using [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/).
+To ensure code quality and identify major issues, each page undergoes validation.
 
 The tables below detail the validation process, including the specific errors detected, corresponding screenshots from the validator, the necessary corrections, and the implemented code amendments.
 
 ### HTML
 
 <details>
-<summary>Click to view Index.html responsiveness testing results </summary> 
- 
- **Page** | **Screenshot** | **Changes to be made** | **Changes made** | **Final result** 
----|---|---|---|---
- Home | ![screenshot](assets/images/documentation/testing/validator/index-v-before.png) | Stray div | Removed stray div | ![screenshot](assets/images/documentation/testing/validator/index-v-after.png) 
- Book Now | ![screenshot](assets/images/documentation/testing/validator/booking-v-before.png) | The input type was set incorrectly.  <br><br> The required attribute was duplicated, <br><br> The form method and action were written incorrectly. The form element was not closed correctly. | Changed the input type to 'text' to ensure the placeholder attribute functions correctly. <br><br> Removed the duplicate 'required' attribute. <br><br> Updated the form's method to 'GET' and set its action to 'confirmation.html'. Closed the form element correctly. | ![screenshot](assets/images/documentation/testing/validator/booking-v-after.png)
+<summary>Click to view Index.html responsiveness testing results </summary>
 
-- The Packages page is not listed above because it passed the HTML validation without errors
+HTML was validated using [The W3C Markup Validation Service](https://validator.w3.org/).
+
+| **Page** | **Screenshot**                                                                    | **Changes to be made**                                                                                                                                                                       | **Changes made**                                                                                                                                                                                                                                                         | **Final result**                                                                 |
+| -------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Home     | ![screenshot](assets/images/documentation/testing/validator/index-v-before.png)   | Stray div                                                                                                                                                                                    | Removed stray div                                                                                                                                                                                                                                                        | ![screenshot](assets/images/documentation/testing/validator/index-v-after.png)   |
+| Book Now | ![screenshot](assets/images/documentation/testing/validator/booking-v-before.png) | The input type was set incorrectly. <br><br> The required attribute was duplicated, <br><br> The form method and action were written incorrectly. The form element was not closed correctly. | Changed the input type to 'text' to ensure the placeholder attribute functions correctly. <br><br> Removed the duplicate 'required' attribute. <br><br> Updated the form's method to 'GET' and set its action to 'confirmation.html'. Closed the form element correctly. | ![screenshot](assets/images/documentation/testing/validator/booking-v-after.png) |
+
+**Note:** The Packages page is not listed above because it passed the HTML validation without errors.
 
  </details>
 
@@ -22,6 +24,8 @@ The tables below detail the validation process, including the specific errors de
 
 <details>
 <summary>Click here  to view the CSS Validation </summary>
+
+CSS is validated using [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator/).
 
 | **Page**        | **Screenshot**                                                                | **Changes to be made**                                  | **Changes made**                                                         | **Updated Screenshot**                                                       |
 | --------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
@@ -82,7 +86,7 @@ Chrome Lighthouse evaluates the performance, accessibility, and SEO of a web pag
 | Booking  | Mobile  | ![](assets/images/documentation/testing/lighthouse/booking-mobile-before.png)   | ![](assets/images/documentation/testing/lighthouse/booking-detail.png)  |     | ![](assets/images/documentation/testing/lighthouse/booking-mobile-after.png)   |
 | Booking  | Desktop | ![](assets/images/documentation/testing/lighthouse/booking-desktop-before.png)  | Similar to above                                                        |     | ![](assets/images/documentation/testing/lighthouse/booking-desktop-after.png)  |
 
-All pages underwent image compression and resizing for improved performance
+**Note:** All pages underwent image compression and resizing for improved performance.
 
  </details>
 
@@ -92,6 +96,12 @@ The [WAVE](https://wave.webaim.org/) tool analyzes structure, contrast, and acce
 
 <details>
 <summary>Click here  to view the WAVE Feedback </summary>
+
+| Before                                                                  | After                                                                  | Notes                                                                                                                                                                                                 |
+| ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![screenshot](assets/images/documentation/testing/wave/wave-before.png) | ![screenshot](assets/images/documentation/testing/wave/wave-after.png) | The headings on the carousel had a contrast issue due to background color, therefore I added `background-color: rgba(0, 0, 0, 0.014)` to overcome this issue. This can be viewed on the styles sheet. |
+
+**Note:** All other pages passed the WAVE test without issues, so no additional screenshots are provided.
 
  </details>
 
