@@ -141,7 +141,6 @@ img {
 
 /*Bookign form*/
 
-
 .form-control,
 .form-select,
 label {
@@ -160,6 +159,12 @@ label {
 #footer {
   background-color: var(--secondary-color);
   padding: 1em;
+  text-align: center;
+}
+
+.opening table {
+  width: 100%;
+  text-align: center;
 }
 
 #footer i {
@@ -248,7 +253,7 @@ label {
   .form-select,
   label {
     font-size: 15px;
-    width:90%;
+    width: 90%;
   }
 
   #booking h3 {
