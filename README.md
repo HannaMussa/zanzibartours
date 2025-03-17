@@ -6,6 +6,8 @@ On this website, users will immediately recognize our reputation and credibility
 
 For inquiries, users can contact us using the contact infomation in the footer, which includes contact details and social media links. Additionally, the Booking Section offers a direct way for users to message us.
 
+![screenshot](assets\images\mockup.png)
+
 [View the live site here.](https://hannamussa.github.io/zanzibartours/)
 
 ## UX
@@ -130,22 +132,27 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
     - 'Packages' directs users to a dedicated Packages page.
     - 'Book Now' redirects users to the booking page.
 
-  - Additionally, the website includes a 404 error page, which appears when a user tries to access a non-existent page, and a success page, which is displayed after successfully submitting the booking form.
   - The website's logo is positioned on the left side of the navigation bar, while the links are aligned to the right.
+    ![screenshot](assets\images\documentation\features\navbar.png)
   - The navigation bar is fully responsive. On desktop screens, the links are displayed openly, whereas on tablets and mobile devices, the navbar collapses into a button with a dropdown menu. The logo remains on the left side across all screen sizes.
+    ![screenshot](assets\images\documentation\features\navbar-sm.png)
 
 - **Footer**
 
   - The footer appears at the bottom of every page, extending across the full width of the screen. It includes contact information, social media links, opening times, and a newsletter subscription.
+    ![screenshot](assets\images\documentation\features\footer.png)
 
 - **Home page**
 
   - The header on the main page features a responsive, autoplaying carousel with three slides, each showcasing scenic images of Zanzibar. The autoplaying carousel spans the full width of the screen and includes a header, a short paragraph, and a button that links users to the Packages page.
+    ![screenshot](assets\images\documentation\features\carousel.png)
+
   - The About section features an image alongside a brief description of Zanzibar Tours, highlighting its offerings. On mobile and tablet screens, the image and description stack vertically, while on desktop screens and larger, the section spans the full width of the screen.
   - The Testimonial section includes six reviews from past customers and is fully responsive.
     - On mobile screens, testimonials stack vertically, with each one occupying the full width.
     - On tablets, two testimonials are displayed per row.
     - On desktop screens and larger, three testimonials are displayed per row, spanning the full width of the section.
+      ![screenshot](assets\images\documentation\features\home.png)
 
 - **Package page**
 
@@ -154,18 +161,22 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
     - On mobile screens, one package card takes up the full width.
     - On tablet-sized screens, two cards are displayed per row, spanning the entire width.
     - On large screens, four package cards are displayed per row, utilizing the full screen width.
+      ![screenshot](assets\images\documentation\features\packages.png)
 
 - **Booking page**
 
-  - The Booking page features a form that allows users to inquire about a tour. To submit the form, users must provide their phone number, email, and selected tour type, as these fields are required. Upon successful submission, users are redirected to the confirmation page.
+  - The Booking page features a form that allows users to inquire about a tour. To submit the form, users must provide their phone number, email, and selected tour type, as these fields are required. Upon successful submission, users are redirected to the confirmation page. The booking page maintains a consistent layout across all devices.
+    ![screenshot](assets\images\documentation\features\booking.png)
 
 - **Confirmation page**
 
-  - The Confirmation Page appears after users submit the booking form. A button is displayed, allowing users to return to the home page.
+  - The Confirmation Page appears after users submit the booking form. A button is displayed, allowing users to return to the home page. The confirmation page maintains a consistent layout across all devices.
+    ![screenshot](assets\images\documentation\features\thankyou.png)
 
 - **Error 404 page**
 
-  - The 404 Error Page is shown when a user attempts to access a non-existent page. Like the Confirmation Page, it includes a button that users can click to return to the home page.
+  - The 404 Error Page is shown when a user attempts to access a non-existent page. Like the Confirmation Page, it features a button that allows users to return to the home page and maintains a consistent layout across all devices.
+    ![screenshot](assets\images\documentation\features\error.png)
 
 ### Future Features
 
