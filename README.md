@@ -206,7 +206,7 @@ This section includes the tools, technologies, and frameworks used in the develo
 - [HTML](https://en.wikipedia.org/wiki/HTML) is the core markup language used to structure the website.
 - [CSS](https://en.wikipedia.org/wiki/CSS) was used for styling the website’s appearance.
 - [Bootstrap](https://getbootstrap.com) is a front-end framework used for responsive designs when creating websites.
-  [11zon](https://www.11zon.com/) is an image compressor that was used to reduce image sizes, ensuring faster page loading.
+- [11zon](https://imagecompressor.11zon.com/) is an image compressor that was used to reduce image sizes, ensuring faster page loading.
 
 ## Testing
 
@@ -302,3 +302,20 @@ This section includes images, fonts, and other media assets that enhance the vis
 ### Acknowledgements
 
 - I would like to express my gratitude to my tutor, Robert Thompson, and my mentor, Victor Miclovich, for their assistance during the development of this project.
+
+### Content
+
+| source                                                                                                                 |        location        |                                                                                 notes |
+| ---------------------------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------------------------------: |
+| [Markdown Builder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)                                   |     README.md file     |                                          assisted in understanding markdown language. |
+| [Code Institute Readme Template](https://github.com/Code-Institute-Solutions/readme-template)                          |     README.md file     |                   helped with structuring read me file, layout and content to include |
+| [Code Institute Boardwalks Website Tutorial](https://learn.codeinstitute.net/login?next=/dashboard)                          |     entire website file     |                   provided guidance & insightful information for the wesbite layout. |
+| [Luna's Leopard Geckos README](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos/blob/main/README.md) |     README.md file     |                   helped with structuring read me file, layout and content to include |
+| [YouTube](https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                            |        Carousel        |                                                    inspiration for carousel on header |
+| [Google Fonts](https://fonts.google.com/)                                                                              |    entired website     |                                                             fonts for entire website. |
+| [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)                                                       |     entire website     |                          helped understand concepts for entire website/ media queries/flexbox & positioning. |
+| [Image Resizer](https://imageresizer.com/)                                                                             | testimonies & packages |                                              optimized images for better performance. |
+| [ChatGPT](https://chatgpt.com/)                                                                                        | testimonies & packages | assisted with formulating heading and text, refer to the table below for more detail. |
+| [FontAwesome](https://fontawesome.com/)                                                                                |    icons on footer     |                                                        contact section, social links, |
+| [Favicon](https://favicon.io/)                                                                                         |     Navbar, Title      |                         Favicon used on desktop icon tab and used as a logo on navbar |
+

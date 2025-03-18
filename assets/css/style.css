@@ -9,9 +9,7 @@
   --secondary-color: #f2e9d5; /* Light beige sandy color */
   --tertiary-color: #0c5c59; /* Dark blue ocean color */
   --highlight-color: #207e7e; /* light blue ocean color */
-} 
-
-
+}
 
 /* Global styles */
 
@@ -54,6 +52,7 @@ img {
 }
 
 /*Links*/
+
 .nav-link {
   color: var(--primary-color);
 }
@@ -69,7 +68,8 @@ img {
   background-color: var(--secondary-color);
 }
 
-/*carousel*/
+/*Carousel*/
+
 .c-image {
   filter: brightness(0.6);
 }
@@ -85,18 +85,17 @@ img {
 
 /* Contrast */
 
-.car-text-shadow{
-  
-  background-color: rgba(0, 0, 0, 0.1);
+.car-text-shadow {
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
 }
 
-/*about*/
+/*About*/
 
 #about {
   margin: 0;
@@ -181,6 +180,7 @@ footer i {
   font-size: 1.2rem;
   margin-right: 10px;
 }
+
 footer .social-link {
   font-size: 2rem;
 }
@@ -189,11 +189,13 @@ footer .social-link i:hover {
   color: var(--highlight-color);
   transition: all 0.3s ease-in-out;
 }
+
 footer a {
   text-decoration: none;
 }
 
 /*Confimtion & Error page*/
+
 .confirm,
 .error {
   display: flex;
