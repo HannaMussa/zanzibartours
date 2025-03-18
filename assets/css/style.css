@@ -156,7 +156,7 @@ label {
 }
 
 /*Footer*/
-#footer {
+footer {
   background-color: var(--secondary-color);
   padding: 1em;
   text-align: center;
@@ -167,20 +167,20 @@ label {
   text-align: center;
 }
 
-#footer i {
+footer i {
   color: var(--primary-color);
   font-size: 1.2rem;
   margin-right: 10px;
 }
-#footer .social-link {
+footer .social-link {
   font-size: 2rem;
 }
 
-#footer .social-link i:hover {
+footer .social-link i:hover {
   color: var(--highlight-color);
   transition: all 0.3s ease-in-out;
 }
-#footer a {
+footer a {
   text-decoration: none;
 }
 

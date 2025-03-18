@@ -14,7 +14,7 @@ HTML was validated using [The W3C Markup Validation Service](https://validator.w
 | **Page** | **Screenshot**                                                                    | **Changes to be made**                                                                                                                                                                       | **Changes made**                                                                                                                                                                                                                                                         | **Final result**                                                                 |
 | -------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | Home     | ![screenshot](assets/images/documentation/testing/validator/index-v-before.png)   | Stray div                                                                                                                                                                                    | Removed stray div                                                                                                                                                                                                                                                        | ![screenshot](assets/images/documentation/testing/validator/index-v-after.png)   |
-| Book Now | ![screenshot](assets/images/documentation/testing/validator/booking-v-before.png) | The input type was set incorrectly. <br><br> The required attribute was duplicated, <br><br> The form method and action were written incorrectly. The form element was not closed correctly. | Changed the input type to 'text' to ensure the placeholder attribute functions correctly. <br><br> Removed the duplicate 'required' attribute. <br><br> Updated the form's method to 'GET' and set its action to 'confirmation.html'. Closed the form element correctly. | ![screenshot](assets/images/documentation/testing/validator/booking-v-after.png) |
+| Book Now | ![screenshot](assets/images/documentation/testing/validator/booking-v-before.png) | The input type was set incorrectly. <br><br> The required attribute was duplicated. <br><br> The form method and action were written incorrectly. The form element was not closed correctly. | Changed the input type to 'text' to ensure the placeholder attribute functions correctly. <br><br> Removed the duplicate 'required' attribute. <br><br> Updated the form's method to 'GET' and set its action to 'confirmation.html'. Closed the form element correctly. | ![screenshot](assets/images/documentation/testing/validator/booking-v-after.png) |
 
 **Note:** The Packages page is not listed above because it passed the HTML validation without errors.
 
@@ -84,6 +84,8 @@ The website maintains a fully responsive layout across all devices, ensuring a s
 | ------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Booking Form | ![screenshot](assets/images/documentation/testing/responsive/booking/b-mobile-form.png) | ![screenshot](assets/images/documentation/testing/responsive/booking/b-tablet-form.png) | ![screenshot](assets/images/documentation/testing/responsive/booking/b-laptop-form.png) | ![screenshot](assets/images/documentation/testing/responsive/booking/b-xl-form.png) |
 
+The website was responsive across all device sizes.
+
 </details>
 
 ## Lighthouse Audit
@@ -142,6 +144,7 @@ The [WAVE](https://wave.webaim.org/) tool analyzes structure, contrast, and acce
 | As an admin user, I want to add, edit, or remove tour listings so that the website always displays up-to-date offerings to provide a good user experience.                                                                        | ![screenshot](assets/images/documentation/testing/user-stories/packages-code.png)           | The code provided enables administrators to add, edit, and remove tour listings, ensuring that the website remains up to date and provides users with accurate information.                                                                |
 | As an admin user, I should be able to oversee site performance, detect issues, and debug any problems for a good user experience. <br> <br> As an admin user, I should have correct indentation for easy readability and editing. | ![screenshot](assets/images/documentation/testing/user-stories/admin-indentation-debug.png) | he code follows proper indentation for readability, making it easier to detect and debug issues.                                                                                                                                           |
 
+<br>All user stories were fulfilled and successfully implemented on the website.
 </details>
 
 ## Testing Existing Features
@@ -183,6 +186,7 @@ The [WAVE](https://wave.webaim.org/) tool analyzes structure, contrast, and acce
 | **Package card not responsive** – Content overflowed or misaligned on various devices.             | Standardized image sizes and ensured `<p>` elements had a similar word count for consistency. | ![Package Responsiveness](assets/images/documentation/testing/bugs/packages-resp.png) |
 | **Booking form selector pre-selected by default** – Users could not start with an empty selection. | Added `selected disabled` to the "Select a tour" `<option>` to prevent auto-selection.        | ![Booking Form Issue](assets/images/documentation/testing/bugs/booking.png)           |
 
+All existing features worked correctly and served their intended purpose.
 </details>
 
 ## Unfixed Bugs
