@@ -9,7 +9,9 @@
   --secondary-color: #f2e9d5; /* Light beige sandy color */
   --tertiary-color: #0c5c59; /* Dark blue ocean color */
   --highlight-color: #207e7e; /* light blue ocean color */
-}
+} 
+
+
 
 /* Global styles */
 
@@ -83,8 +85,15 @@ img {
 
 /* Contrast */
 
-.car-text-shadow {
-  background-color: rgba(0, 0, 0, 0.014);
+.car-text-shadow{
+  
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
 }
 
 /*about*/
@@ -285,9 +294,7 @@ footer a {
     position: absolute;
     bottom: 2%;
   }
-  .col-lg-4 {
-    flex: 0 0 auto;
-  }
+
   #packages .card {
     height: 500px;
   }
