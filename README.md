@@ -157,11 +157,13 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 - **Package page**
 
   - The Packages page consists of twelve cards, each showcasing an image of the tour's scenic views, a brief description of the experience, and a footer section with a button that links to the booking form, allowing users to book a tour.
+  - An embedded YouTube video is positioned at the bottom of the page. The video is set to autoplay while muted, includes playback controls for user convenience, and offers the option to open directly on YouTube by clicking the YouTube icon.
   - The layout is fully responsive:
     - On mobile screens, one package card takes up the full width.
     - On tablet-sized screens, two cards are displayed per row, spanning the entire width.
     - On large screens, four package cards are displayed per row, utilizing the full screen width.
       ![screenshot](assets\images\documentation\features\packages.png)
+    - The embedded video maintains a consistent layout across all screen sizes.
 
 - **Booking page**
 
@@ -258,64 +260,28 @@ Forking a repository allows you to create a personal copy of a project.
 | ---------------------------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------------------------------: |
 | [Markdown Builder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)                                   |     README.md file     |                                          assisted in understanding markdown language. |
 | [Code Institute Readme Template](https://github.com/Code-Institute-Solutions/readme-template)                          |     README.md file     |                   helped with structuring read me file, layout and content to include |
+| [Code Institute Boardwalks Website Tutorial](https://learn.codeinstitute.net/login?next=/dashboard)                    |  entire website file   |                    provided guidance & insightful information for the wesbite layout. |
 | [Luna's Leopard Geckos README](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos/blob/main/README.md) |     README.md file     |                   helped with structuring read me file, layout and content to include |
 | [YouTube](https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                            |        Carousel        |                                                    inspiration for carousel on header |
+| [YouTube](https://www.youtube.com/watch?v=F7FDgT2182ksi=cXguVxO0oWH6A2YB)                                              |     Packages.html      |                                                       embedded video on packages.html |
 | [Google Fonts](https://fonts.google.com/)                                                                              |    entired website     |                                                             fonts for entire website. |
-| [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)                                                       |     entire website     |                          helped understand concepts for entire website/ media queries |
+| [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)                                                       |     entire website     |   helped understand concepts for entire website/ media queries/flexbox & positioning. |
 | [Image Resizer](https://imageresizer.com/)                                                                             | testimonies & packages |                                              optimized images for better performance. |
 | [ChatGPT](https://chatgpt.com/)                                                                                        | testimonies & packages | assisted with formulating heading and text, refer to the table below for more detail. |
 | [FontAwesome](https://fontawesome.com/)                                                                                |    icons on footer     |                                                        contact section, social links, |
 | [Favicon](https://favicon.io/)                                                                                         |     Navbar, Title      |                         Favicon used on desktop icon tab and used as a logo on navbar |
-
-<details>
-<summary>Click here to view the ChatGBT promts</summary>
-
-| Title                              | Description Output                                                                                                                                                                                                                |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Beach Day Retreat**              | Escape to a perfect beach retreat, where golden sands, crystal-clear waters, and ocean breezes await. Relax, unwind, and enjoy sun-soaked adventures or peaceful moments by the shore. Swim, explore, or simply bask in paradise! |
-| **Snorkeling Adventure**           | Dive into an unforgettable snorkeling adventure! Explore vibrant coral reefs, swim alongside exotic marine life, and immerse yourself in crystal-clear waters. This experience promises breathtaking underwater views!            |
-| **Magical Dolphin Swimming**       | Experience the magic of swimming with dolphins in their natural habitat. Glide through crystal-clear waters alongside these playful, intelligent creatures for an unforgettable adventure.                                        |
-| **Swim with Majestic Sea Turtles** | Swim alongside majestic sea turtles in crystal-clear waters for an unforgettable experience. Glide through serene ocean landscapes, observe marine life up close, and create lasting memories.                                    |
-| **Island Hopping**                 | Set sail on an unforgettable island-hopping adventure! Explore pristine beaches, hidden coves, and crystal-clear waters as you visit breathtaking islands. Swim, snorkel, and soak in paradise.                                   |
-| **Seaside Dining**                 | Enjoy a breathtaking beachfront dining experience with fresh local cuisine, stunning ocean views, and a serene coastal breeze. Perfect for romantic dinners, special occasions, or relaxed evenings by the sea!                   |
-| **Thrilling Jet Ski Experience**   | Feel the adrenaline rush as you race across crystal-clear waters on a high-speed jet ski! Explore scenic coastlines, ride the waves, and enjoy an exhilarating experience.                                                        |
-| **Jozani Forest**                  | Discover the natural wonders of Jozani Forest, home to the rare red colobus monkeys and diverse wildlife. Stroll through lush trails, explore mangrove forests, and immerse yourself in nature.                                   |
-| **Authentic Spice Farm Tour**      | Explore a traditional spice farm and awaken your senses with the rich aromas of cinnamon, vanilla, cloves, and more. Learn about Zanzibar’s spice heritage, taste fresh spices, and experience local culture!                     |
-| **Stone Town Cultural Tour**       | Step into history with a guided tour of Stone Town, a UNESCO World Heritage Site. Discover rich Swahili culture, historic landmarks, and stunning architecture!                                                                   |
-| **Forodhani Night Market**         | Immerse yourself in the vibrant energy of Forodhani Night Market, Zanzibar’s famous waterfront food haven. Savor delicious seafood, local delicacies, and fresh juices while enjoying the lively atmosphere.                      |
-| **Ultimate All-Inclusive Package** | Enjoy a hassle-free getaway with our all-inclusive experience! Indulge in luxurious accommodations, delicious dining, and exciting excursions. Relax, whilst everything is taken care of!                                         |
-
-**Note:** Each title was generated using the prompt "Create a paragraph of 38 words to describe this experience on a Zanzibar tour page."
-
-</details>
 
 ### Media
 
 This section includes images, fonts, and other media assets that enhance the visual appeal of the website.
 
-| source                                  |    location    |                                                            notes |
-| --------------------------------------- | :------------: | ---------------------------------------------------------------: |
-| [Pexels](https://www.pexels.com/)       | Entire Website | all images, background, carousel, about, testimonials & packages |
-| [FontAwesome](https://fontawesome.com/) |    Footer:     |                                   contact section, social links, |
-| [Favicon](https://favicon.io/)          | Navbar, Title  |    Favicon used on desktop icon tab and used as a logo on navbar |
+| source                                                                    |    location    |                                                            notes |
+| ------------------------------------------------------------------------- | :------------: | ---------------------------------------------------------------: |
+| [Pexels](https://www.pexels.com/)                                         | Entire Website | all images, background, carousel, about, testimonials & packages |
+| [FontAwesome](https://fontawesome.com/)                                   |    Footer:     |                                   contact section, social links, |
+| [Favicon](https://favicon.io/)                                            | Navbar, Title  |    Favicon used on desktop icon tab and used as a logo on navbar |
+| [YouTube](https://www.youtube.com/watch?v=F7FDgT2182ksi=cXguVxO0oWH6A2YB) | Packages.html  |                                  embedded video on packages.html |
 
 ### Acknowledgements
 
 - I would like to express my gratitude to my tutor, Robert Thompson, and my mentor, Victor Miclovich, for their assistance during the development of this project.
-
-### Content
-
-| source                                                                                                                 |        location        |                                                                                 notes |
-| ---------------------------------------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------------------------------: |
-| [Markdown Builder](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)                                   |     README.md file     |                                          assisted in understanding markdown language. |
-| [Code Institute Readme Template](https://github.com/Code-Institute-Solutions/readme-template)                          |     README.md file     |                   helped with structuring read me file, layout and content to include |
-| [Code Institute Boardwalks Website Tutorial](https://learn.codeinstitute.net/login?next=/dashboard)                          |     entire website file     |                   provided guidance & insightful information for the wesbite layout. |
-| [Luna's Leopard Geckos README](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos/blob/main/README.md) |     README.md file     |                   helped with structuring read me file, layout and content to include |
-| [YouTube](https://youtu.be/zVjAA6UxvtU?si=cXguVxO0oWH6A2YB)                                                            |        Carousel        |                                                    inspiration for carousel on header |
-| [Google Fonts](https://fonts.google.com/)                                                                              |    entired website     |                                                             fonts for entire website. |
-| [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)                                                       |     entire website     |                          helped understand concepts for entire website/ media queries/flexbox & positioning. |
-| [Image Resizer](https://imageresizer.com/)                                                                             | testimonies & packages |                                              optimized images for better performance. |
-| [ChatGPT](https://chatgpt.com/)                                                                                        | testimonies & packages | assisted with formulating heading and text, refer to the table below for more detail. |
-| [FontAwesome](https://fontawesome.com/)                                                                                |    icons on footer     |                                                        contact section, social links, |
-| [Favicon](https://favicon.io/)                                                                                         |     Navbar, Title      |                         Favicon used on desktop icon tab and used as a logo on navbar |
-
