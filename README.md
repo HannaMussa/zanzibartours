@@ -86,16 +86,16 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <summary>Click here to view the Tablet Wireframes</summary>
 
 - **Home Page**  
-  ![screenshot](assets/images/documentation/wireframes/tablet-home.png)
+  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/tablet-home.png)
 
 - **Packages Page**  
-  ![screenshot](assets/images/documentation/wireframes/tablet-packages.png)
+  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/tablet-packages.png)
 
 - **Booking Page**  
-  ![screenshot](assets/images/documentation/wireframes/tablet-booking.png)
+  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/tablet-booking.png)
 
 - **Error Page**  
-  ![screenshot](assets/images/documentation/wireframes/tablet-error.png)
+  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/tablet-error.png)
 
 </details>
 
@@ -105,16 +105,16 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <summary>Click here to view the Desktop Wireframes</summary>
 
 - Home Page  
-  ![screenshot](assets/images/documentation/wireframes/desktop-home.png)
+  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/desktop-home.png)
 
 - Packages Page  
-  ![screenshot](assets/images/documentation/wireframes/desktop-packages.png)
+  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/desktop-packages.png)
 
 - Booking Page  
-  ![screenshot](assets/images/documentation/wireframes/desktop-booking.png)
+  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/desktop-booking.png)
 
 - Error Page  
-  ![screenshot](assets/images/documentation/wireframes/desktop-error.png)
+  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/desktop-error.png)
 
 </details>
 
