@@ -325,3 +325,10 @@ footer a {
     height: 23rem;
   }
 }
+
+/* 4k devices and up */
+@media (min-width: 2000px) {
+  footer {
+    margin-top: 70rem;
+  }
+}

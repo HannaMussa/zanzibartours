@@ -167,7 +167,7 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 
 - **Booking page**
 
-  - The Booking page features a form that allows users to inquire about a tour. To submit the form, users must provide their phone number, email, and selected tour type, as these fields are required. Upon successful submission, users are redirected to the confirmation page. The booking page maintains a consistent layout across all devices.
+  - The Booking page features a form that allows users to inquire about a tour. To submit the form, users must provide all the information on the form as it is required. Upon successful submission, users are redirected to the confirmation page. The booking page maintains a consistent layout across all devices.
     ![screenshot](assets/images/documentation/features/booking.png)
 
 - **Confirmation page**
