@@ -33,6 +33,7 @@ From the first click, users should immediately recognize that the website focuse
 
 Lato was chosen for its readability and clarity, while Playfair Display, commonly used on luxury websites, provides a blend of traditional and modern aesthetics. The contrast between Lato and Playfair Display creates a visually appealing and well-balanced typographic combination.
 
+## User Stories
 ### New Site Users
 
 - As a new user I would like to understand the purpose of this site for ease of convenience.
@@ -52,10 +53,10 @@ Lato was chosen for its readability and clarity, while Playfair Display, commonl
 
 ### Site Admin Users
 
-- As an admin user, I should be able to respond to user enquiries to build a good reputation and for reliability.
+- As an admin user, I should be able to respond to user inquiries to build a good reputation and for reliability.
 - As an admin user, I want to add, edit, or remove tour listings so that the website always displays up-to-date offerings to provide a good user experience.
-- As an admin user, I should be able to oversee site performance, detect issues, and debug any issues for a good user experience.
-- As an admin user, I should have correct indentation for easy readability and editing.
+<!-- - As an admin user, I should be able to oversee site performance, detect issues, and debug any issues for a good user experience.
+- As an admin user, I should have correct indentation for easy readability and editing. -->
 
 ## Wireframes
 
@@ -86,16 +87,16 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <summary>Click here to view the Tablet Wireframes</summary>
 
 - **Home Page**  
-  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/tablet-home.png)
+  ![screenshot](/assets/images/documentation/wireframes/tablet-home.png)
 
 - **Packages Page**  
-  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/tablet-packages.png)
+  ![screenshot](/assets/images/documentation/wireframes/tablet-packages.png)
 
 - **Booking Page**  
-  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/tablet-booking.png)
+  ![screenshot](/assets/images/documentation/wireframes/tablet-booking.png)
 
 - **Error Page**  
-  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/tablet-error.png)
+  ![screenshot](/assets/images/documentation/wireframes/tablet-error.png)
 
 </details>
 
@@ -105,16 +106,16 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
 <summary>Click here to view the Desktop Wireframes</summary>
 
 - Home Page  
-  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/desktop-home.png)
+  ![screenshot](/assets/images/documentation/wireframes/desktop-home.png)
 
 - Packages Page  
-  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/desktop-packages.png)
+  ![screenshot](/assets/images/documentation/wireframes/desktop-packages.png)
 
 - Booking Page  
-  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/desktop-booking.png)
+  ![screenshot](/assets/images/documentation/wireframes/desktop-booking.png)
 
 - Error Page  
-  ![screenshot](https://raw.githubusercontent.com/HannaMussa/zanzibartours/main/assets/images/documentation/wireframes/desktop-error.png)
+  ![screenshot](/assets/images/documentation/wireframes/desktop-error.png)
 
 </details>
 
@@ -133,14 +134,14 @@ Wireframes were developed usng Balsamiq for mobile, tablet and desktop sizes.
     - 'Book Now' redirects users to the booking page.
 
   - The website's logo is positioned on the left side of the navigation bar, while the links are aligned to the right.
-    ![screenshot](assets/images/documentation/features/navbar.png)
+    ![screenshot](/assets/images/documentation/features/navbar.png)
   - The navigation bar is fully responsive. On desktop screens, the links are displayed openly, whereas on tablets and mobile devices, the navbar collapses into a button with a dropdown menu. The logo remains on the left side across all screen sizes.
-    ![screenshot](assets/images/documentation/features/navbar-sm.png)
+    ![screenshot](/assets/images/documentation/features/navbar-sm.png)
 
 - **Footer**
 
   - The footer appears at the bottom of every page, extending across the full width of the screen. It includes contact information, social media links, opening times, and a newsletter subscription.
-    ![screenshot](assets/images/documentation/features/footer.png)
+    ![screenshot](/assets/images/documentation/features/footer.png)
 
 - **Home page**
 
