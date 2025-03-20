@@ -34,6 +34,7 @@ From the first click, users should immediately recognize that the website focuse
 Lato was chosen for its readability and clarity, while Playfair Display, commonly used on luxury websites, provides a blend of traditional and modern aesthetics. The contrast between Lato and Playfair Display creates a visually appealing and well-balanced typographic combination.
 
 ## User Stories
+
 ### New Site Users
 
 - As a new user I would like to understand the purpose of this site for ease of convenience.
@@ -55,8 +56,6 @@ Lato was chosen for its readability and clarity, while Playfair Display, commonl
 
 - As an admin user, I should be able to respond to user inquiries to build a good reputation and for reliability.
 - As an admin user, I want to add, edit, or remove tour listings so that the website always displays up-to-date offerings to provide a good user experience.
-<!-- - As an admin user, I should be able to oversee site performance, detect issues, and debug any issues for a good user experience.
-- As an admin user, I should have correct indentation for easy readability and editing. -->
 
 ## Wireframes
 
