@@ -14,6 +14,16 @@ For inquiries, users can contact us using the contact infomation in the footer, 
 
 From the first click, users should immediately recognize that the website focuses on Zanzibar tours. This is accomplished with a full-width, autoplaying carousel designed to capture attention. High-resolution images are used to enhance visual appeal and create an engaging experience.
 
+### Target Audience
+
+This website is designed for travellers, adventurers, and culture lovers who are seeking a genuine and unforgettable experience in Zanzibar. It primarily targets international tourists — including solo travellers, couples, and small groups — looking for trustworthy, locally-guided tours that reveal the island’s rich history, natural beauty, and vibrant culture. With its simple navigation, eye-catching visuals, and clear tour descriptions, the site makes it easy for people — especially those on the go — to explore and plan their trip.
+
+In addition to international visitors, the site also caters to local travel agencies and tour operators who may wish to recommend or partner with us to enhance their own offerings. It also appeals to residents from nearby cities and regions, such as Dar es Salaam, who are planning weekend getaways or short trips to Zanzibar and are looking for reliable, well-organised tours.
+
+The goal is to offer something more personal and grounded than the typical large-scale travel platforms, while supporting local guides and encouraging community-based tourism. It’s all about helping visitors connect with the real Zanzibar — in a meaningful, safe, and enjoyable way.
+
+
+
 ### Color Scheme
 
 [Image picker](https://imagecolorpicker.com/) was used to generate a color palette. The color scheme follows a clean and modern style that complements the websites color palette. The key colors include:
