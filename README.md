@@ -22,8 +22,6 @@ In addition to international visitors, the site also caters to local travel agen
 
 The goal is to offer something more personal and grounded than the typical large-scale travel platforms, while supporting local guides and encouraging community-based tourism. It’s all about helping visitors connect with the real Zanzibar — in a meaningful, safe, and enjoyable way.
 
-
-
 ### Color Scheme
 
 [Image picker](https://imagecolorpicker.com/) was used to generate a color palette. The color scheme follows a clean and modern style that complements the websites color palette. The key colors include:
@@ -66,6 +64,23 @@ Lato was chosen for its readability and clarity, while Playfair Display, commonl
 
 - As an admin user, I should be able to respond to user inquiries to build a good reputation and for reliability.
 - As an admin user, I want to add, edit, or remove tour listings so that the website always displays up-to-date offerings to provide a good user experience.
+
+## Development Cycle
+
+The Development Cycle section tracks the progress of key user stories throughout the project, documenting each feature’s journey from initial planning (To-Do) to active development (In Progress), and finally to completion (Done). This cycle was implemented to provide clear visibility into the development process. By visualizing the workflow, it helped keep the project organized, ensured focus on priority tasks, and supported the efficient completion of each feature.
+
+<details>
+<summary>Click here to view the Development Cycle</summary>
+
+| **User Story Target** | **Before Starting**                                                       | **In Progress**                                                                | **Done**                                                                       | **Description**                                                                                                                                                                                    |
+| --------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Photo**             | ![screenshot](assets/images/documentation/developmental/photo.png)        | ![screenshot](assets/images/documentation/developmental/photo-prog.png)        | ![screenshot](assets/images/documentation/developmental/photo-done.png)        | The user story regarding the image display was initially in the 'To-Do' section. Once I began working on it, I moved it to 'In Progress', and upon completion, it was moved to the 'Done' section. |
+| **Booking**           | ![screenshot](assets/images/documentation/developmental/booking.png)      | ![screenshot](assets/images/documentation/developmental/booking-prog.png)      | ![screenshot](assets/images/documentation/developmental/booking-done.png)      | The user story regarding the booking section was initially in 'To-Do'. As I started working on it, it was moved to 'In Progress', and once completed, it was placed in the 'Done' section.         |
+| **Testimonials**      | ![screenshot](assets/images/documentation/developmental/testimonials.png) | ![screenshot](assets/images/documentation/developmental/testimonials-prog.png) | ![screenshot](assets/images/documentation/developmental/testimonials-done.png) | The user story for the testimonials section began in the 'To-Do' column. After beginning work, it progressed to 'In Progress', and upon finishing, it was moved to 'Done'.                         |
+| **Contact**           | ![screenshot](assets/images/documentation/developmental/contact.png)      | ![screenshot](assets/images/documentation/developmental/contact-prog.png)      | ![screenshot](assets/images/documentation/developmental/contact-done.png)      | The contact section started in 'To-Do', was moved to 'In Progress' once development began, and finally transitioned to 'Done' after completion.                                                    |
+| **Packages**          | ![screenshot](assets/images/documentation/developmental/packages.png)     | ![screenshot](assets/images/documentation/developmental/packages-prog.png)     | ![screenshot](assets/images/documentation/developmental/packages-done.png)     | The packages section followed the same workflow: beginning in 'To-Do', moving to 'In Progress' during development, and finishing in 'Done' once completed.                                         |
+
+</details>
 
 ## Wireframes
 
